@@ -1,0 +1,104 @@
+[
+ {
+  "name": "State Street",
+  "ats": "phenom",
+  "base": "https://careers.statestreet.com",
+  "tier": "big"
+ },
+ {
+  "name": "John Hancock / Manulife",
+  "ats": "phenom",
+  "base": "https://careers.manulife.com",
+  "tier": "big"
+ },
+ {
+  "name": "Liberty Mutual",
+  "ats": "eightfold",
+  "host": "libertymutual.eightfold.ai",
+  "tier": "big"
+ },
+ {
+  "name": "PNC",
+  "ats": "phenom",
+  "base": "https://careers.pnc.com",
+  "tier": "big"
+ },
+ {
+  "name": "Northwestern Mutual",
+  "ats": "smartrecruiters",
+  "slug": "northwesternmutual",
+  "tier": "big"
+ },
+ {
+  "name": "The Hanover",
+  "ats": "greenhouse",
+  "token": "hanover",
+  "tier": "big"
+ },
+ {
+  "name": "Mastercard",
+  "ats": "phenom",
+  "base": "https://careers.mastercard.com",
+  "tier": "big"
+ },
+ {
+  "name": "Point72",
+  "ats": "greenhouse",
+  "token": "point72",
+  "tier": "big"
+ },
+ {
+  "name": "Wolf & Company",
+  "ats": "smartrecruiters",
+  "slug": "wolfco",
+  "tier": "big"
+ },
+ {
+  "name": "Boston Consulting Group",
+  "ats": "eightfold",
+  "host": "bcg.eightfold.ai",
+  "tier": "big"
+ },
+ {
+  "name": "Charles River Associates",
+  "ats": "greenhouse",
+  "token": "charlesriverassociates",
+  "tier": "big"
+ },
+ {
+  "name": "Cornerstone Research",
+  "ats": "greenhouse",
+  "token": "cornerstone",
+  "tier": "big"
+ },
+ {
+  "name": "TJX",
+  "ats": "phenom",
+  "base": "https://jobs.tjx.com",
+  "tier": "big"
+ },
+ {
+  "name": "Wayfair",
+  "ats": "smartrecruiters",
+  "slug": "wayfair",
+  "tier": "big"
+ },
+ {
+  "name": "HubSpot",
+  "ats": "greenhouse",
+  "token": "hubspotjobs",
+  "tier": "big"
+ },
+ {
+  "name": "General Electric",
+  "ats": "phenom",
+  "base": "https://careers.geaerospace.com",
+  "tier": "big"
+ },
+ {
+  "name": "Procter & Gamble",
+  "ats": "phenom",
+  "base": "https://www.pgcareers.com",
+  "tier": "big"
+ }
+]

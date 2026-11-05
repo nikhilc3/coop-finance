@@ -1,0 +1,1493 @@
+{
+ "Fidelity Investments": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://jobs.fidelity.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 405: Method Not Allowed"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://jobs.fidelity.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 405: Method Not Allowed"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://jobs.fidelity.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "State Street": {
+  "ok": [
+   {
+    "ats": "phenom",
+    "base": "https://careers.statestreet.com",
+    "n": 169
+   }
+  ],
+  "tried": [
+   {
+    "ats": "phenom",
+    "base": "https://careers.statestreet.com",
+    "n": 169
+   }
+  ]
+ },
+ "Wellington Management": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.wellington.com/en/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.wellington.com/en/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.wellington.com/en/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "John Hancock / Manulife": {
+  "ok": [
+   {
+    "ats": "phenom",
+    "base": "https://careers.manulife.com",
+    "n": 97
+   }
+  ],
+  "tried": [
+   {
+    "ats": "phenom",
+    "base": "https://careers.manulife.com",
+    "n": 97
+   }
+  ]
+ },
+ "MFS Investment Management": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.mfs.com/careers",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 3 column 1 (char 4)"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.mfs.com/careers",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 3 column 1 (char 4)"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.mfs.com/careers",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 3 column 1 (char 4)"
+   }
+  ]
+ },
+ "Franklin Templeton / Putnam": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.franklintempleton.com/careers",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.franklintempleton.com/careers",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.franklintempleton.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Liberty Mutual": {
+  "ok": [
+   {
+    "ats": "eightfold",
+    "host": "libertymutual.eightfold.ai",
+    "n": 33
+   }
+  ],
+  "tried": [
+   {
+    "ats": "eightfold",
+    "host": "libertymutual.eightfold.ai",
+    "n": 33
+   }
+  ]
+ },
+ "MassMutual": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://careers.massmutual.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://careers.massmutual.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 2 column 1 (char 2)"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://careers.massmutual.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 2 column 1 (char 2)"
+   }
+  ]
+ },
+ "Natixis Investment Managers": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.im.natixis.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.im.natixis.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.im.natixis.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Eaton Vance / Morgan Stanley": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.morganstanley.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.morganstanley.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.morganstanley.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Bank of America": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://careers.bankofamerica.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://careers.bankofamerica.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 500: Internal Server Error"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://careers.bankofamerica.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Citi": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://jobs.citi.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://jobs.citi.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 3 column 1 (char 4)"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://jobs.citi.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 3 column 1 (char 4)"
+   }
+  ]
+ },
+ "Wells Fargo": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.wellsfargojobs.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 405: Method Not Allowed"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.wellsfargojobs.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 405: Method Not Allowed"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.wellsfargojobs.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "BNY": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://jobs.bnymellon.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: NOT FOUND"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://jobs.bnymellon.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: NOT FOUND"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://jobs.bnymellon.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: NOT FOUND"
+   }
+  ]
+ },
+ "Citizens Bank": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://jobs.citizensbank.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://jobs.citizensbank.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 2 column 1 (char 3)"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://jobs.citizensbank.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 2 column 1 (char 3)"
+   }
+  ]
+ },
+ "Santander US": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://careers.santanderus.com",
+    "n": -1,
+    "err": "URLError: <urlopen error [Errno -2] Name or service not known>"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://careers.santanderus.com",
+    "n": -1,
+    "err": "URLError: <urlopen error [Errno -2] Name or service not known>"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://careers.santanderus.com",
+    "n": -1,
+    "err": "URLError: <urlopen error [Errno -2] Name or service not known>"
+   }
+  ]
+ },
+ "TD Bank": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://jobs.td.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://jobs.td.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://jobs.td.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "PNC": {
+  "ok": [
+   {
+    "ats": "phenom",
+    "base": "https://careers.pnc.com",
+    "n": 85
+   }
+  ],
+  "tried": [
+   {
+    "ats": "phenom",
+    "base": "https://careers.pnc.com",
+    "n": 85
+   }
+  ]
+ },
+ "Capital One": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.capitalonecareers.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.capitalonecareers.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 2 column 1 (char 2)"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.capitalonecareers.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 2 column 1 (char 2)"
+   }
+  ]
+ },
+ "BlackRock": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://careers.blackrock.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://careers.blackrock.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 3 column 1 (char 4)"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://careers.blackrock.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 3 column 1 (char 4)"
+   }
+  ]
+ },
+ "Vanguard": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.vanguardjobs.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.vanguardjobs.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.vanguardjobs.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "T. Rowe Price": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://careers.troweprice.com",
+    "n": -1,
+    "err": "URLError: <urlopen error [Errno -2] Name or service not known>"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://careers.troweprice.com",
+    "n": -1,
+    "err": "URLError: <urlopen error [Errno -2] Name or service not known>"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://careers.troweprice.com",
+    "n": -1,
+    "err": "URLError: <urlopen error [Errno -2] Name or service not known>"
+   }
+  ]
+ },
+ "Invesco": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://careers.invesco.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://careers.invesco.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://careers.invesco.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "Charles Schwab": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.schwabjobs.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 4 column 1 (char 6)"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.schwabjobs.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 4 column 1 (char 6)"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.schwabjobs.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 4 column 1 (char 6)"
+   }
+  ]
+ },
+ "Northwestern Mutual": {
+  "ok": [
+   {
+    "ats": "smartrecruiters",
+    "slug": "northwesternmutual",
+    "n": 69
+   }
+  ],
+  "tried": [
+   {
+    "ats": "smartrecruiters",
+    "slug": "northwesternmutual",
+    "n": 69
+   }
+  ]
+ },
+ "Prudential": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://jobs.prudential.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://jobs.prudential.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://jobs.prudential.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Travelers": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://careers.travelers.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://careers.travelers.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://careers.travelers.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "The Hanover": {
+  "ok": [
+   {
+    "ats": "greenhouse",
+    "token": "hanover",
+    "n": 3
+   }
+  ],
+  "tried": [
+   {
+    "ats": "greenhouse",
+    "token": "hanover",
+    "n": 3
+   }
+  ]
+ },
+ "American Express": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://aexp.eightfold.ai",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: NOT FOUND"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://aexp.eightfold.ai",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: NOT FOUND"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://aexp.eightfold.ai",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: NOT FOUND"
+   }
+  ]
+ },
+ "Mastercard": {
+  "ok": [
+   {
+    "ats": "phenom",
+    "base": "https://careers.mastercard.com",
+    "n": 361
+   }
+  ],
+  "tried": [
+   {
+    "ats": "phenom",
+    "base": "https://careers.mastercard.com",
+    "n": 361
+   }
+  ]
+ },
+ "Goldman Sachs": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://higher.gs.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://higher.gs.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://higher.gs.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Jefferies": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://jefferies.tal.net",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://jefferies.tal.net",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://jefferies.tal.net",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "Evercore": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.evercore.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.evercore.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.evercore.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Houlihan Lokey": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://hl.wd1.myworkdayjobs.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://hl.wd1.myworkdayjobs.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://hl.wd1.myworkdayjobs.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   }
+  ]
+ },
+ "Lazard": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.lazard.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.lazard.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.lazard.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Raymond James": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.raymondjames.com/careers",
+    "n": -1,
+    "err": "TimeoutError: The read operation timed out"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.raymondjames.com/careers",
+    "n": -1,
+    "err": "TimeoutError: The read operation timed out"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.raymondjames.com/careers",
+    "n": -1,
+    "err": "TimeoutError: The read operation timed out"
+   }
+  ]
+ },
+ "Point72": {
+  "ok": [
+   {
+    "ats": "greenhouse",
+    "token": "point72",
+    "n": 197
+   }
+  ],
+  "tried": [
+   {
+    "ats": "greenhouse",
+    "token": "point72",
+    "n": 197
+   }
+  ]
+ },
+ "Bain Capital": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.baincapital.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.baincapital.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.baincapital.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "PwC": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://jobs.us.pwc.com",
+    "n": -1,
+    "err": "URLError: <urlopen error [Errno -2] Name or service not known>"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://jobs.us.pwc.com",
+    "n": -1,
+    "err": "URLError: <urlopen error [Errno -2] Name or service not known>"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://jobs.us.pwc.com",
+    "n": -1,
+    "err": "URLError: <urlopen error [Errno -2] Name or service not known>"
+   }
+  ]
+ },
+ "KPMG": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.kpmguscareers.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.kpmguscareers.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.kpmguscareers.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Deloitte": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://apply.deloitte.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://apply.deloitte.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://apply.deloitte.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "EY": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://careers.ey.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://careers.ey.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 401: 401"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://careers.ey.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   }
+  ]
+ },
+ "Grant Thornton": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.gt.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 307: Temporary Redirect"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.gt.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 307: Temporary Redirect"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.gt.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "RSM US": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://rsmus.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://rsmus.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://rsmus.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "BDO USA": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://careers.bdo.com",
+    "n": -1,
+    "err": "URLError: <urlopen error [Errno -5] No address associated with hostnam"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://careers.bdo.com",
+    "n": -1,
+    "err": "URLError: <urlopen error [Errno -5] No address associated with hostnam"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://careers.bdo.com",
+    "n": -1,
+    "err": "URLError: <urlopen error [Errno -5] No address associated with hostnam"
+   }
+  ]
+ },
+ "Baker Tilly": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.bakertilly.com/careers",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.bakertilly.com/careers",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.bakertilly.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "CBIZ": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.cbiz.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.cbiz.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.cbiz.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Wolf & Company": {
+  "ok": [
+   {
+    "ats": "smartrecruiters",
+    "slug": "wolfco",
+    "n": 1
+   }
+  ],
+  "tried": [
+   {
+    "ats": "smartrecruiters",
+    "slug": "wolfco",
+    "n": 1
+   }
+  ]
+ },
+ "Accenture": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.accenture.com/us-en/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 409: Conflict"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.accenture.com/us-en/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 409: Conflict"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.accenture.com/us-en/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Boston Consulting Group": {
+  "ok": [
+   {
+    "ats": "eightfold",
+    "host": "bcg.eightfold.ai",
+    "n": 116
+   }
+  ],
+  "tried": [
+   {
+    "ats": "eightfold",
+    "host": "bcg.eightfold.ai",
+    "n": 116
+   }
+  ]
+ },
+ "Bain & Company": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.bain.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.bain.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.bain.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Analysis Group": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.analysisgroup.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.analysisgroup.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.analysisgroup.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Charles River Associates": {
+  "ok": [
+   {
+    "ats": "greenhouse",
+    "token": "charlesriverassociates",
+    "n": 94
+   }
+  ],
+  "tried": [
+   {
+    "ats": "greenhouse",
+    "token": "charlesriverassociates",
+    "n": 94
+   }
+  ]
+ },
+ "Cornerstone Research": {
+  "ok": [
+   {
+    "ats": "greenhouse",
+    "token": "cornerstone",
+    "n": 4
+   }
+  ],
+  "tried": [
+   {
+    "ats": "greenhouse",
+    "token": "cornerstone",
+    "n": 4
+   }
+  ]
+ },
+ "FTI Consulting": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.fticonsulting.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.fticonsulting.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 500: Internal Server Error"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.fticonsulting.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Alvarez & Marsal": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.alvarezandmarsal.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.alvarezandmarsal.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.alvarezandmarsal.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "TJX": {
+  "ok": [
+   {
+    "ats": "phenom",
+    "base": "https://jobs.tjx.com",
+    "n": 153
+   }
+  ],
+  "tried": [
+   {
+    "ats": "phenom",
+    "base": "https://jobs.tjx.com",
+    "n": 153
+   }
+  ]
+ },
+ "Wayfair": {
+  "ok": [
+   {
+    "ats": "smartrecruiters",
+    "slug": "wayfair",
+    "n": 1
+   }
+  ],
+  "tried": [
+   {
+    "ats": "smartrecruiters",
+    "slug": "wayfair",
+    "n": 1
+   }
+  ]
+ },
+ "HubSpot": {
+  "ok": [
+   {
+    "ats": "greenhouse",
+    "token": "hubspotjobs",
+    "n": 108
+   }
+  ],
+  "tried": [
+   {
+    "ats": "greenhouse",
+    "token": "hubspotjobs",
+    "n": 108
+   }
+  ]
+ },
+ "Boston Scientific": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://jobs.bostonscientific.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://jobs.bostonscientific.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 401: 401"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://jobs.bostonscientific.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   }
+  ]
+ },
+ "Vertex Pharmaceuticals": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://careers.vrtx.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://careers.vrtx.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://careers.vrtx.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "Moderna": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.modernatx.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.modernatx.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.modernatx.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Biogen": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.biogen.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.biogen.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.biogen.com/careers",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "RTX": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://careers.rtx.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://careers.rtx.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://careers.rtx.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "General Electric": {
+  "ok": [
+   {
+    "ats": "phenom",
+    "base": "https://careers.geaerospace.com",
+    "n": 120
+   }
+  ],
+  "tried": [
+   {
+    "ats": "phenom",
+    "base": "https://careers.geaerospace.com",
+    "n": 120
+   }
+  ]
+ },
+ "Bose": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://boseallaboutme.wd1.myworkdayjobs.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://boseallaboutme.wd1.myworkdayjobs.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://boseallaboutme.wd1.myworkdayjobs.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   }
+  ]
+ },
+ "Dell": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://jobs.dell.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://jobs.dell.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://jobs.dell.com",
+    "n": -1,
+    "err": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   }
+  ]
+ },
+ "PepsiCo": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.pepsicojobs.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.pepsicojobs.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.pepsicojobs.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "Procter & Gamble": {
+  "ok": [
+   {
+    "ats": "phenom",
+    "base": "https://www.pgcareers.com",
+    "n": 260
+   }
+  ],
+  "tried": [
+   {
+    "ats": "phenom",
+    "base": "https://www.pgcareers.com",
+    "n": 260
+   }
+  ]
+ },
+ "Johnson & Johnson": {
+  "ok": [],
+  "tried": [
+   {
+    "ats": "phenom",
+    "tried": "https://www.careers.jnj.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "successfactors_csb",
+    "tried": "https://www.careers.jnj.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "ats": "eightfold",
+    "tried": "https://www.careers.jnj.com",
+    "n": -1,
+    "err": "HTTPError: HTTP Error 404: Not Found"
+   }
+  ]
+ }
+}

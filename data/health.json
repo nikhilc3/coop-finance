@@ -1,0 +1,128 @@
+{
+ "JPMorgan Chase": {
+  "best": 929,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 929
+ },
+ "State Street": {
+  "best": 169,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 169
+ },
+ "John Hancock / Manulife": {
+  "best": 97,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 97
+ },
+ "Liberty Mutual": {
+  "best": 33,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 33
+ },
+ "PNC": {
+  "best": 85,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 85
+ },
+ "Northwestern Mutual": {
+  "best": 69,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 69
+ },
+ "The Hanover": {
+  "best": 3,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 3
+ },
+ "Mastercard": {
+  "best": 361,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 361
+ },
+ "Point72": {
+  "best": 197,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 197
+ },
+ "Wolf & Company": {
+  "best": 1,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 1
+ },
+ "Boston Consulting Group": {
+  "best": 116,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 116
+ },
+ "Charles River Associates": {
+  "best": 94,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 94
+ },
+ "Cornerstone Research": {
+  "best": 4,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 4
+ },
+ "TJX": {
+  "best": 153,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 153
+ },
+ "Wayfair": {
+  "best": 1,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 1
+ },
+ "HubSpot": {
+  "best": 108,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 108
+ },
+ "General Electric": {
+  "best": 120,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 120
+ },
+ "Procter & Gamble": {
+  "best": 260,
+  "zero_runs": 0,
+  "fail_runs": 0,
+  "err": "",
+  "last_n": 260
+ }
+}

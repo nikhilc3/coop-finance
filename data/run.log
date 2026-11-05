@@ -1,0 +1,57 @@
+fetching ATS boards…
+  JPMorgan Chase               oracle_hcm       929 jobs  16.5s
+  State Street                 phenom           169 jobs  2.0s
+  John Hancock / Manulife      phenom            97 jobs  2.2s
+  Liberty Mutual               eightfold         33 jobs  2.5s
+  PNC                          phenom            85 jobs  1.6s
+  Northwestern Mutual          smartrecruiters    69 jobs  0.6s
+  The Hanover                  greenhouse         3 jobs  0.1s
+  Mastercard                   phenom           361 jobs  2.6s
+  Point72                      greenhouse       197 jobs  0.1s
+  Wolf & Company               smartrecruiters     1 jobs  0.5s
+  Boston Consulting Group      eightfold        116 jobs  6.1s
+  Charles River Associates     greenhouse        94 jobs  0.1s
+  Cornerstone Research         greenhouse         4 jobs  0.1s
+  TJX                          phenom           153 jobs  1.3s
+  Wayfair                      smartrecruiters     1 jobs  0.5s
+  HubSpot                      greenhouse       108 jobs  0.3s
+  General Electric             phenom           120 jobs  1.9s
+  Procter & Gamble             phenom           260 jobs  3.7s
+fetching GitHub lists…
+fetching internlist.org (Simplify) lists…
+  internlist:coop             2732 jobs  20.2s
+  internlist:boston            456 jobs  3.2s
+  internlist:nyc              1913 jobs  11.3s
+LinkedIn/Indeed sweep…
+  jobspy 'finance intern summer 2027': 80 new
+WARNING:jobspy.linkedin:job 4486067349: response status code 429 (blocked: use a proxy)
+WARNING:jobspy.linkedin:job 4460617806: response status code 429 (blocked: use a proxy)
+  jobspy 'corporate finance intern 2027': 54 new
+WARNING:jobspy.linkedin:job 4487569346: response status code 429 (blocked: use a proxy)
+  jobspy 'FP&A intern': 48 new
+  jobspy 'financial analyst intern 2027': 40 new
+  jobspy 'accounting intern summer 2027': 49 new
+  jobspy 'audit intern 2027': 57 new
+  jobspy 'tax intern summer 2027': 50 new
+  jobspy 'treasury intern': 74 new
+  jobspy 'investment banking summer analyst 2027': 10 new
+WARNING:jobspy.linkedin:job 4485766680: response status code 429 (blocked: use a proxy)
+  jobspy 'equity research intern': 61 new
+  jobspy 'asset management intern 2027': 47 new
+  jobspy 'wealth management intern 2027': 46 new
+  jobspy 'private equity intern': 12 new
+WARNING:jobspy.linkedin:job 4383802514: response status code 429 (blocked: use a proxy)
+  jobspy 'business analyst intern 2027': 68 new
+  jobspy 'strategy intern 2027': 53 new
+WARNING:jobspy.linkedin:job 4478702373: response status code 429 (blocked: use a proxy)
+  jobspy 'consulting intern summer 2027': 57 new
+  jobspy 'finance co-op fall 2027': 20 new
+  jobspy 'accounting co-op fall 2027': 13 new
+WARNING:jobspy.linkedin:job 4486136143: response status code 429 (blocked: use a proxy)
+  jobspy 'business co-op 2027': 56 new
+  jobspy 'finance co-op Boston': 12 new
+  jobspy 'summer analyst Boston': 25 new
+openings: 0 | sheet.csv: 1284 {'FINANCE': 683, 'BUSINESS': 314, 'MAYBE': 230, 'OTHER': 57} {'APPLY NOW': 310, 'APPLY': 164, 'SOON': 20, 'WATCH': 790} | watchlist: 6 | events: 0
+
+raw=8833 kept=1284 new=1284 rejected=7191
+rank: {'A': 474, 'B': 178, 'C': 632}  reject reasons: {'not intern': 2676, 'excluded title': 2110, 'no finance/business keyword': 2006, 'non-US': 243, 'spring/winter only': 60, 'quant/tech only': 44, 'grad/mba only': 44, '2026 term (past)': 8}

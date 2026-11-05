@@ -1,0 +1,72 @@
+Fidelity Investments         not found: HTTPError: HTTP Error 405: Method Not Allowed; HTTPError: HTTP Error 405: Method Not Allowed; HTTPError: HTTP Error 404:
+State Street                 FOUND {"ats": "phenom", "base": "https://careers.statestreet.com", "n": 169}
+Wellington Management        not found: HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 404: Not Found
+John Hancock / Manulife      FOUND {"ats": "phenom", "base": "https://careers.manulife.com", "n": 97}
+MFS Investment Management    not found: JSONDecodeError: Expecting value: line 3 column 1 (char 4); JSONDecodeError: Expecting value: line 3 column 1 (char 4); 
+Franklin Templeton / Putnam  not found: JSONDecodeError: Expecting value: line 1 column 1 (char 0); JSONDecodeError: Expecting value: line 1 column 1 (char 0); 
+Liberty Mutual               FOUND {"ats": "eightfold", "host": "libertymutual.eightfold.ai", "n": 33}
+MassMutual                   not found: HTTPError: HTTP Error 404: Not Found; JSONDecodeError: Expecting value: line 2 column 1 (char 2); JSONDecodeError: Expec
+Natixis Investment Managers  not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+Eaton Vance / Morgan Stanley not found: HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 404: Not Found
+Bank of America              not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 500: Internal Server Error; HTTPError: HTTP Error 404: Not F
+Citi                         not found: HTTPError: HTTP Error 404: Not Found; JSONDecodeError: Expecting value: line 3 column 1 (char 4); JSONDecodeError: Expec
+Wells Fargo                  not found: HTTPError: HTTP Error 405: Method Not Allowed; HTTPError: HTTP Error 405: Method Not Allowed; HTTPError: HTTP Error 404:
+BNY                          not found: HTTPError: HTTP Error 404: NOT FOUND; HTTPError: HTTP Error 404: NOT FOUND; HTTPError: HTTP Error 404: NOT FOUND
+Citizens Bank                not found: HTTPError: HTTP Error 404: Not Found; JSONDecodeError: Expecting value: line 2 column 1 (char 3); JSONDecodeError: Expec
+Santander US                 not found: URLError: <urlopen error [Errno -2] Name or service not known>; URLError: <urlopen error [Errno -2] Name or service not 
+TD Bank                      not found: HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden
+PNC                          FOUND {"ats": "phenom", "base": "https://careers.pnc.com", "n": 85}
+Capital One                  not found: HTTPError: HTTP Error 404: Not Found; JSONDecodeError: Expecting value: line 2 column 1 (char 2); JSONDecodeError: Expec
+BlackRock                    not found: HTTPError: HTTP Error 404: Not Found; JSONDecodeError: Expecting value: line 3 column 1 (char 4); JSONDecodeError: Expec
+Vanguard                     not found: HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden
+T. Rowe Price                not found: URLError: <urlopen error [Errno -2] Name or service not known>; URLError: <urlopen error [Errno -2] Name or service not 
+Invesco                      not found: HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden
+Charles Schwab               not found: JSONDecodeError: Expecting value: line 4 column 1 (char 6); JSONDecodeError: Expecting value: line 4 column 1 (char 6); 
+Northwestern Mutual          FOUND {"ats": "smartrecruiters", "slug": "northwesternmutual", "n": 69}
+Prudential                   not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+Travelers                    not found: HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden
+The Hanover                  FOUND {"ats": "greenhouse", "token": "hanover", "n": 3}
+American Express             not found: HTTPError: HTTP Error 404: NOT FOUND; HTTPError: HTTP Error 404: NOT FOUND; HTTPError: HTTP Error 404: NOT FOUND
+Mastercard                   FOUND {"ats": "phenom", "base": "https://careers.mastercard.com", "n": 361}
+Goldman Sachs                not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+Jefferies                    not found: HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden
+Evercore                     not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+Houlihan Lokey               not found: JSONDecodeError: Expecting value: line 1 column 1 (char 0); JSONDecodeError: Expecting value: line 1 column 1 (char 0); 
+Lazard                       not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+Raymond James                not found: TimeoutError: The read operation timed out; TimeoutError: The read operation timed out; TimeoutError: The read operation
+Point72                      FOUND {"ats": "greenhouse", "token": "point72", "n": 197}
+Bain Capital                 not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+PwC                          not found: URLError: <urlopen error [Errno -2] Name or service not known>; URLError: <urlopen error [Errno -2] Name or service not 
+KPMG                         not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+Deloitte                     not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+EY                           not found: JSONDecodeError: Expecting value: line 1 column 1 (char 0); HTTPError: HTTP Error 401: 401; JSONDecodeError: Expecting v
+Grant Thornton               not found: HTTPError: HTTP Error 307: Temporary Redirect; HTTPError: HTTP Error 307: Temporary Redirect; HTTPError: HTTP Error 404:
+RSM US                       not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+BDO USA                      not found: URLError: <urlopen error [Errno -5] No address associated with hostnam; URLError: <urlopen error [Errno -5] No address a
+Baker Tilly                  not found: JSONDecodeError: Expecting value: line 1 column 1 (char 0); JSONDecodeError: Expecting value: line 1 column 1 (char 0); 
+CBIZ                         not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+Wolf & Company               FOUND {"ats": "smartrecruiters", "slug": "wolfco", "n": 1}
+Accenture                    not found: HTTPError: HTTP Error 409: Conflict; HTTPError: HTTP Error 409: Conflict; HTTPError: HTTP Error 404: Not Found
+Boston Consulting Group      FOUND {"ats": "eightfold", "host": "bcg.eightfold.ai", "n": 116}
+Bain & Company               not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+Analysis Group               not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+Charles River Associates     FOUND {"ats": "greenhouse", "token": "charlesriverassociates", "n": 94}
+Cornerstone Research         FOUND {"ats": "greenhouse", "token": "cornerstone", "n": 4}
+FTI Consulting               not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 500: Internal Server Error; HTTPError: HTTP Error 404: Not F
+Alvarez & Marsal             not found: HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden
+TJX                          FOUND {"ats": "phenom", "base": "https://jobs.tjx.com", "n": 153}
+Wayfair                      FOUND {"ats": "smartrecruiters", "slug": "wayfair", "n": 1}
+HubSpot                      FOUND {"ats": "greenhouse", "token": "hubspotjobs", "n": 108}
+Boston Scientific            not found: JSONDecodeError: Expecting value: line 1 column 1 (char 0); HTTPError: HTTP Error 401: 401; JSONDecodeError: Expecting v
+Vertex Pharmaceuticals       not found: HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden
+Moderna                      not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+Biogen                       not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+RTX                          not found: HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden; HTTPError: HTTP Error 403: Forbidden
+General Electric             FOUND {"ats": "phenom", "base": "https://careers.geaerospace.com", "n": 120}
+Bose                         not found: JSONDecodeError: Expecting value: line 1 column 1 (char 0); JSONDecodeError: Expecting value: line 1 column 1 (char 0); 
+Dell                         not found: JSONDecodeError: Expecting value: line 1 column 1 (char 0); JSONDecodeError: Expecting value: line 1 column 1 (char 0); 
+PepsiCo                      not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+Procter & Gamble             FOUND {"ats": "phenom", "base": "https://www.pgcareers.com", "n": 260}
+Johnson & Johnson            not found: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
+
+17 of 70 resolved → data/discover_config.json (paste into config/companies.json)
