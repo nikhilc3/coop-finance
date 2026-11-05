@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Finance Co-op Board</title>
+<meta name="description" content="Summer 2027 internships and fall 2027 co-ops in finance and business, updated hourly.">
+<style>
+:root{
+  --bg:#f4f3ef;--panel:#fff;--ink:#1b1c20;--ink2:#4a4d55;--mute:#6d7078;--line:#e1e0da;
+  --fin:#1d5c4a;--biz:#3c5a85;--maybe:#b58a1f;--other:#a7a8a3;
+  --now-bg:#f8ddd9;--now-ink:#9a201b;--apply-bg:#fbe9d3;--apply-ink:#874710;--soon-bg:#dfe8f6;--soon-ink:#294b88;--watch-bg:#ebeae5;--watch-ink:#6d7078;
+  --new:#1e7d4f;--accent:#1d5c4a;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){
+  --bg:#131416;--panel:#1b1d21;--ink:#e8e7e2;--ink2:#c0bfb9;--mute:#8e9198;--line:#2c2f35;
+  --fin:#3f9c80;--biz:#6d8fc2;--maybe:#d1a446;--other:#5b5d5a;
+  --now-bg:#3e1b19;--now-ink:#f2a29c;--apply-bg:#3a2713;--apply-ink:#efb67a;--soon-bg:#18253a;--soon-ink:#a0bdf0;--watch-bg:#25282d;--watch-ink:#8e9198;
+  --new:#3aa56e;--accent:#3f9c80;}}
+:root[data-theme=dark]{
+  --bg:#131416;--panel:#1b1d21;--ink:#e8e7e2;--ink2:#c0bfb9;--mute:#8e9198;--line:#2c2f35;
+  --fin:#3f9c80;--biz:#6d8fc2;--maybe:#d1a446;--other:#5b5d5a;
+  --now-bg:#3e1b19;--now-ink:#f2a29c;--apply-bg:#3a2713;--apply-ink:#efb67a;--soon-bg:#18253a;--soon-ink:#a0bdf0;--watch-bg:#25282d;--watch-ink:#8e9198;
+  --new:#3aa56e;--accent:#3f9c80;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+header{background:var(--panel);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:2}
+header .wrap{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;padding-block:12px}
+h1{font-size:19px;margin:0;letter-spacing:-.01em}
+.meta{color:var(--mute);font-size:12.5px}
+.tabs,.chips{display:flex;flex-wrap:wrap;gap:6px}
+button{font:inherit;cursor:pointer;border:1px solid var(--line);background:var(--panel);color:var(--ink2);padding:5px 11px;border-radius:999px}
+button.on{background:var(--ink);color:var(--panel);border-color:var(--ink)}
+.bar{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;padding:12px 0}
+input[type=search]{flex:1 1 220px;min-width:0;font:inherit;padding:7px 11px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink)}
+label.tog{color:var(--ink2);font-size:13px;display:flex;gap:6px;align-items:center}
+.legend{color:var(--mute);font-size:12.5px;margin:0 0 10px}
+.row{display:grid;grid-template-columns:4px 1fr auto;gap:0 12px;background:var(--panel);border:1px solid var(--line);border-radius:10px;margin-bottom:8px;overflow:hidden}
+.stripe{background:var(--other)}.FINANCE .stripe{background:var(--fin)}.BUSINESS .stripe{background:var(--biz)}.MAYBE .stripe{background:var(--maybe)}
+.main{padding:10px 0;min-width:0}
+.role{font-weight:600;color:var(--ink);text-decoration:none}.role:hover{text-decoration:underline}
+.co{color:var(--ink2)}
+.sub{color:var(--mute);font-size:12.5px;margin-top:2px;display:flex;flex-wrap:wrap;gap:4px 12px}
+.tag{font-size:11px;font-weight:600;padding:1px 7px;border-radius:999px;white-space:nowrap}
+.u-APPLYNOW{background:var(--now-bg);color:var(--now-ink)}.u-APPLY{background:var(--apply-bg);color:var(--apply-ink)}
+.u-SOON{background:var(--soon-bg);color:var(--soon-ink)}.u-WATCH{background:var(--watch-bg);color:var(--watch-ink)}
+.newtag{color:var(--new);font-weight:700;font-size:11px}
+.side{padding:10px 12px 10px 0;display:flex;flex-direction:column;align-items:flex-end;gap:6px}
+select{font:inherit;font-size:12.5px;padding:3px 6px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--ink2)}
+.row.done{opacity:.5}
+table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);font-size:13px;vertical-align:top}
+th{color:var(--mute);font-weight:600;font-size:12px}
+.tablewrap{overflow-x:auto}
+.empty{color:var(--mute);padding:30px 0;text-align:center}
+@media (max-width:560px){.row{grid-template-columns:4px 1fr}.side{grid-column:2;flex-direction:row;align-items:center;padding:0 0 10px}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>Finance Co-op Board</h1>
+  <span class="meta" id="meta">loading…</span>
+  <nav class="tabs" style="margin-left:auto">
+    <button data-tab="post" class="on">Postings</button><button data-tab="open">Just opened</button><button data-tab="watch">Watchlist</button>
+  </nav>
+</div></header>
+<main class="wrap">
+  <section id="post">
+    <div class="bar">
+      <input type="search" id="q" placeholder="Search company, role, city">
+      <div class="chips" id="fits"></div>
+      <label class="tog"><input type="checkbox" id="showdone"> show applied / skipped</label>
+    </div>
+    <p class="legend">Best fit first (Finance, Business, Maybe), then urgency. APPLY NOW = summer or fall 2027 stated and posted in the last week, or deadline within 14 days. APPLY = summer/fall 2027 stated. SOON = co-op with no dates, fresh. WATCH = no dates stated. Your status is saved in this browser.</p>
+    <div id="list"></div>
+  </section>
+  <section id="open" hidden><p class="legend">Companies whose first summer/fall posting showed up in the last 7 days.</p><div class="tablewrap" id="opentable"></div></section>
+  <section id="watch" hidden><p class="legend">Target companies with nothing posted yet, and any company feed that looks broken.</p><div class="tablewrap" id="watchtable"></div></section>
+</main>
+<script>
+const KEY="fin-board-status";
+let status={};try{status=JSON.parse(localStorage.getItem(KEY)||"{}")}catch(e){}
+const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(status))}catch(e){}};
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function csv(text){const rows=[];let r=[],f="",q=false;for(let i=0;i<text.length;i++){const c=text[i];
+  if(q){if(c=='"'){if(text[i+1]=='"'){f+='"';i++}else q=false}else f+=c}
+  else if(c=='"')q=true;else if(c==","){r.push(f);f=""}else if(c=="\n"){r.push(f);rows.push(r);r=[];f=""}else if(c!="\r")f+=c}
+  if(f||r.length){r.push(f);rows.push(r)}const h=rows.shift()||[];return rows.filter(x=>x.length>1).map(x=>Object.fromEntries(h.map((k,i)=>[k,x[i]??""])))}
+const get=p=>fetch(p+"?t="+Date.now()).then(r=>r.ok?r.text():"").then(csv).catch(()=>[]);
+let rows=[],fit="ALL";
+const FITS=["ALL","FINANCE","BUSINESS","MAYBE"];
+document.getElementById("fits").innerHTML=FITS.map(f=>`<button data-fit="${f}" class="${f==fit?"on":""}">${f[0]+f.slice(1).toLowerCase()}</button>`).join("");
+document.getElementById("fits").onclick=e=>{const b=e.target.closest("button");if(!b)return;fit=b.dataset.fit;
+  document.querySelectorAll("#fits button").forEach(x=>x.classList.toggle("on",x===b));render()};
+document.querySelector(".tabs").onclick=e=>{const b=e.target.closest("button");if(!b)return;
+  document.querySelectorAll(".tabs button").forEach(x=>x.classList.toggle("on",x===b));
+  ["post","open","watch"].forEach(id=>document.getElementById(id).hidden=id!==b.dataset.tab)};
+document.getElementById("q").oninput=render;document.getElementById("showdone").onchange=render;
+function render(){
+  const q=document.getElementById("q").value.toLowerCase(),showDone=document.getElementById("showdone").checked;
+  const vis=rows.filter(r=>fit=="ALL"||r.fit==fit)
+    .filter(r=>!q||(r.company+" "+r.role+" "+r.location).toLowerCase().includes(q))
+    .filter(r=>showDone||!["applied","skip"].includes(status[r.link]));
+  const L=document.getElementById("list");
+  if(!vis.length){L.innerHTML=`<div class="empty">${rows.length?"Nothing matches.":"No postings yet. The first scan fills this in."}</div>`;return}
+  L.innerHTML=vis.map(r=>{const st=status[r.link]||"";const term=r.term=="fall"?"Fall 2027":r.term=="summer"?"Summer 2027":r.term=="coop-unspecified"?"Co-op, term not stated":"Term not stated";
+    return `<div class="row ${esc(r.fit)} ${["applied","skip"].includes(st)?"done":""}"><div class="stripe"></div>
+    <div class="main"><a class="role" href="${esc(r.link)}" target="_blank" rel="noopener">${esc(r.role)}</a> <span class="co">· ${esc(r.company)}</span>${r.new?' <span class="newtag">NEW</span>':""}
+    <div class="sub"><span>${esc(term)}</span><span>${esc(r.location)}</span>${r.posted?`<span>posted ${esc(r.posted)}</span>`:""}${r.deadline?`<span><b>deadline ${esc(r.deadline)}</b></span>`:""}${r.nuworks?`<span>${r.nuworks_link?`<a href="${esc(r.nuworks_link)}" target="_blank" rel="noopener">NUWorks</a>`:"NUWorks"}${r.nu_eligible=="NOT QUALIFIED"?" (not qualified)":""}</span>`:""}</div></div>
+    <div class="side"><span class="tag u-${esc(r.urgency.replace(/ /g,""))}">${esc(r.urgency)}</span>
+    <select data-link="${esc(r.link)}" aria-label="status">${["","interested","applied","skip"].map(s=>`<option value="${s}" ${s==st?"selected":""}>${s||"status"}</option>`).join("")}</select></div></div>`}).join("");
+}
+document.getElementById("list").onchange=e=>{if(e.target.dataset.link){status[e.target.dataset.link]=e.target.value;save();render()}};
+const table=(rs,cols,links={})=>rs.length?`<table><tr>${cols.map(c=>`<th>${esc(c[1])}</th>`).join("")}</tr>${rs.map(r=>`<tr>${cols.map(c=>`<td>${links[c[0]]?`<a href="${esc(r[links[c[0]]])}" target="_blank" rel="noopener">${esc(r[c[0]])}</a>`:esc(r[c[0]])}</td>`).join("")}</tr>`).join("")}</table>`:`<div class="empty">Nothing here yet.</div>`;
+(async()=>{
+  rows=await get("data/sheet.csv");render();
+  document.getElementById("opentable").innerHTML=table(await get("data/openings.csv"),[["company","Company"],["opened","First seen"],["n","Postings"],["sample","Example"]],{sample:"link"});
+  document.getElementById("watchtable").innerHTML=table(await get("data/watchlist.csv"),[["company","Company"],["status","Status"],["expect","Expected"]]);
+  try{const m=await fetch("data/meta.json?t="+Date.now()).then(r=>r.json());
+    document.getElementById("meta").textContent=`${m.rows} postings · updated ${m.generated.replace("T"," ")}`}catch(e){document.getElementById("meta").textContent=`${rows.length} postings`}
+})();
+</script>
+</body>
+</html>

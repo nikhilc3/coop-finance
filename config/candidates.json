@@ -1,0 +1,597 @@
+[
+ {
+  "name": "Fidelity Investments",
+  "slugs": [
+   "fmr",
+   "fidelity"
+  ],
+  "careers": "https://jobs.fidelity.com",
+  "tier": "big"
+ },
+ {
+  "name": "State Street",
+  "slugs": [
+   "statestreet"
+  ],
+  "careers": "https://careers.statestreet.com",
+  "tier": "big"
+ },
+ {
+  "name": "Wellington Management",
+  "slugs": [
+   "wellington"
+  ],
+  "careers": "https://www.wellington.com/en/careers",
+  "tier": "big"
+ },
+ {
+  "name": "John Hancock / Manulife",
+  "slugs": [
+   "manulife"
+  ],
+  "careers": "https://careers.manulife.com",
+  "tier": "big"
+ },
+ {
+  "name": "MFS Investment Management",
+  "slugs": [
+   "mfs"
+  ],
+  "careers": "https://www.mfs.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Franklin Templeton / Putnam",
+  "slugs": [
+   "franklintempleton"
+  ],
+  "careers": "https://www.franklintempleton.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Liberty Mutual",
+  "slugs": [
+   "libertymutual",
+   "lmig"
+  ],
+  "careers": "https://jobs.libertymutualgroup.com",
+  "tier": "big"
+ },
+ {
+  "name": "MassMutual",
+  "slugs": [
+   "massmutual"
+  ],
+  "careers": "https://careers.massmutual.com",
+  "tier": "big"
+ },
+ {
+  "name": "Natixis Investment Managers",
+  "slugs": [
+   "natixis",
+   "natixisim"
+  ],
+  "careers": "https://www.im.natixis.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Eaton Vance / Morgan Stanley",
+  "slugs": [
+   "ms",
+   "morganstanley"
+  ],
+  "careers": "https://www.morganstanley.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Bank of America",
+  "slugs": [
+   "ghr",
+   "bankofamerica"
+  ],
+  "careers": "https://careers.bankofamerica.com",
+  "tier": "big"
+ },
+ {
+  "name": "Citi",
+  "slugs": [
+   "citi"
+  ],
+  "careers": "https://jobs.citi.com",
+  "tier": "big"
+ },
+ {
+  "name": "Wells Fargo",
+  "slugs": [
+   "wf",
+   "wellsfargo"
+  ],
+  "careers": "https://www.wellsfargojobs.com",
+  "tier": "big"
+ },
+ {
+  "name": "BNY",
+  "slugs": [
+   "bnymellon",
+   "bny"
+  ],
+  "careers": "https://jobs.bnymellon.com",
+  "tier": "big"
+ },
+ {
+  "name": "Citizens Bank",
+  "slugs": [
+   "citizensbank",
+   "citizens"
+  ],
+  "careers": "https://jobs.citizensbank.com",
+  "tier": "big"
+ },
+ {
+  "name": "Santander US",
+  "slugs": [
+   "santander",
+   "santanderus"
+  ],
+  "careers": "https://careers.santanderus.com",
+  "tier": "big"
+ },
+ {
+  "name": "TD Bank",
+  "slugs": [
+   "td",
+   "tdbank"
+  ],
+  "careers": "https://jobs.td.com",
+  "tier": "big"
+ },
+ {
+  "name": "PNC",
+  "slugs": [
+   "pnc"
+  ],
+  "careers": "https://careers.pnc.com",
+  "tier": "big"
+ },
+ {
+  "name": "Capital One",
+  "slugs": [
+   "capitalone"
+  ],
+  "careers": "https://www.capitalonecareers.com",
+  "tier": "big"
+ },
+ {
+  "name": "BlackRock",
+  "slugs": [
+   "blackrock"
+  ],
+  "careers": "https://careers.blackrock.com",
+  "tier": "big"
+ },
+ {
+  "name": "Vanguard",
+  "slugs": [
+   "vanguard"
+  ],
+  "careers": "https://www.vanguardjobs.com",
+  "tier": "big"
+ },
+ {
+  "name": "T. Rowe Price",
+  "slugs": [
+   "troweprice"
+  ],
+  "careers": "https://careers.troweprice.com",
+  "tier": "big"
+ },
+ {
+  "name": "Invesco",
+  "slugs": [
+   "invesco"
+  ],
+  "careers": "https://careers.invesco.com",
+  "tier": "big"
+ },
+ {
+  "name": "Charles Schwab",
+  "slugs": [
+   "schwab"
+  ],
+  "careers": "https://www.schwabjobs.com",
+  "tier": "big"
+ },
+ {
+  "name": "Northwestern Mutual",
+  "slugs": [
+   "nm",
+   "northwesternmutual"
+  ],
+  "careers": "https://careers.northwesternmutual.com",
+  "tier": "big"
+ },
+ {
+  "name": "Prudential",
+  "slugs": [
+   "pru",
+   "prudential"
+  ],
+  "careers": "https://jobs.prudential.com",
+  "tier": "big"
+ },
+ {
+  "name": "Travelers",
+  "slugs": [
+   "travelers"
+  ],
+  "careers": "https://careers.travelers.com",
+  "tier": "big"
+ },
+ {
+  "name": "The Hanover",
+  "slugs": [
+   "hanover",
+   "hanoverinsurance"
+  ],
+  "careers": "https://www.hanover.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "American Express",
+  "slugs": [
+   "aexp",
+   "americanexpress"
+  ],
+  "careers": "https://aexp.eightfold.ai",
+  "tier": "big"
+ },
+ {
+  "name": "Mastercard",
+  "slugs": [
+   "mastercard"
+  ],
+  "careers": "https://careers.mastercard.com",
+  "tier": "big"
+ },
+ {
+  "name": "Goldman Sachs",
+  "slugs": [
+   "goldmansachs",
+   "gs"
+  ],
+  "careers": "https://higher.gs.com",
+  "tier": "big"
+ },
+ {
+  "name": "Jefferies",
+  "slugs": [
+   "jefferies"
+  ],
+  "careers": "https://jefferies.tal.net",
+  "tier": "big"
+ },
+ {
+  "name": "Evercore",
+  "slugs": [
+   "evercore"
+  ],
+  "careers": "https://www.evercore.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Houlihan Lokey",
+  "slugs": [
+   "hl",
+   "houlihanlokey"
+  ],
+  "careers": "https://hl.wd1.myworkdayjobs.com",
+  "tier": "big"
+ },
+ {
+  "name": "Lazard",
+  "slugs": [
+   "lazard"
+  ],
+  "careers": "https://www.lazard.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Raymond James",
+  "slugs": [
+   "raymondjames"
+  ],
+  "careers": "https://www.raymondjames.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Point72",
+  "slugs": [
+   "point72"
+  ],
+  "careers": "https://careers.point72.com",
+  "tier": "big"
+ },
+ {
+  "name": "Bain Capital",
+  "slugs": [
+   "baincapital"
+  ],
+  "careers": "https://www.baincapital.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "PwC",
+  "slugs": [
+   "pwc"
+  ],
+  "careers": "https://jobs.us.pwc.com",
+  "tier": "big"
+ },
+ {
+  "name": "KPMG",
+  "slugs": [
+   "kpmg",
+   "kpmgus"
+  ],
+  "careers": "https://www.kpmguscareers.com",
+  "tier": "big"
+ },
+ {
+  "name": "Deloitte",
+  "slugs": [
+   "deloitte"
+  ],
+  "careers": "https://apply.deloitte.com",
+  "tier": "big"
+ },
+ {
+  "name": "EY",
+  "slugs": [
+   "ey",
+   "ernstyoung"
+  ],
+  "careers": "https://careers.ey.com",
+  "tier": "big"
+ },
+ {
+  "name": "Grant Thornton",
+  "slugs": [
+   "grantthornton",
+   "gt"
+  ],
+  "careers": "https://www.gt.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "RSM US",
+  "slugs": [
+   "rsm",
+   "rsmus"
+  ],
+  "careers": "https://rsmus.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "BDO USA",
+  "slugs": [
+   "bdo",
+   "bdousa"
+  ],
+  "careers": "https://careers.bdo.com",
+  "tier": "big"
+ },
+ {
+  "name": "Baker Tilly",
+  "slugs": [
+   "bakertilly"
+  ],
+  "careers": "https://www.bakertilly.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "CBIZ",
+  "slugs": [
+   "cbiz"
+  ],
+  "careers": "https://www.cbiz.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Wolf & Company",
+  "slugs": [
+   "wolfandco",
+   "wolfco"
+  ],
+  "careers": "https://www.wolfandco.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Accenture",
+  "slugs": [
+   "accenture"
+  ],
+  "careers": "https://www.accenture.com/us-en/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Boston Consulting Group",
+  "slugs": [
+   "bcg"
+  ],
+  "careers": "https://careers.bcg.com",
+  "tier": "big"
+ },
+ {
+  "name": "Bain & Company",
+  "slugs": [
+   "bain"
+  ],
+  "careers": "https://www.bain.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Analysis Group",
+  "slugs": [
+   "analysisgroup"
+  ],
+  "careers": "https://www.analysisgroup.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Charles River Associates",
+  "slugs": [
+   "crai",
+   "charlesriverassociates"
+  ],
+  "careers": "https://www.crai.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Cornerstone Research",
+  "slugs": [
+   "cornerstone",
+   "cornerstoneresearch"
+  ],
+  "careers": "https://www.cornerstone.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "FTI Consulting",
+  "slugs": [
+   "fticonsulting",
+   "fti"
+  ],
+  "careers": "https://www.fticonsulting.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Alvarez & Marsal",
+  "slugs": [
+   "alvarezandmarsal",
+   "alvarezmarsal"
+  ],
+  "careers": "https://www.alvarezandmarsal.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "TJX",
+  "slugs": [
+   "tjx"
+  ],
+  "careers": "https://jobs.tjx.com",
+  "tier": "big"
+ },
+ {
+  "name": "Wayfair",
+  "slugs": [
+   "wayfair"
+  ],
+  "careers": "https://www.aboutwayfair.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "HubSpot",
+  "slugs": [
+   "hubspot",
+   "hubspotjobs"
+  ],
+  "careers": "https://www.hubspot.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Boston Scientific",
+  "slugs": [
+   "bostonscientific",
+   "bsc"
+  ],
+  "careers": "https://jobs.bostonscientific.com",
+  "tier": "big"
+ },
+ {
+  "name": "Vertex Pharmaceuticals",
+  "slugs": [
+   "vrtx",
+   "vertex"
+  ],
+  "careers": "https://careers.vrtx.com",
+  "tier": "big"
+ },
+ {
+  "name": "Moderna",
+  "slugs": [
+   "modernatx",
+   "moderna"
+  ],
+  "careers": "https://www.modernatx.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "Biogen",
+  "slugs": [
+   "biogen"
+  ],
+  "careers": "https://www.biogen.com/careers",
+  "tier": "big"
+ },
+ {
+  "name": "RTX",
+  "slugs": [
+   "globalhr",
+   "rtx"
+  ],
+  "careers": "https://careers.rtx.com",
+  "tier": "big"
+ },
+ {
+  "name": "General Electric",
+  "slugs": [
+   "ge",
+   "geaerospace"
+  ],
+  "careers": "https://careers.geaerospace.com",
+  "tier": "big"
+ },
+ {
+  "name": "Bose",
+  "slugs": [
+   "boseallaboutme",
+   "bose"
+  ],
+  "careers": "https://boseallaboutme.wd1.myworkdayjobs.com",
+  "tier": "big"
+ },
+ {
+  "name": "Dell",
+  "slugs": [
+   "dell"
+  ],
+  "careers": "https://jobs.dell.com",
+  "tier": "big"
+ },
+ {
+  "name": "PepsiCo",
+  "slugs": [
+   "pepsico"
+  ],
+  "careers": "https://www.pepsicojobs.com",
+  "tier": "big"
+ },
+ {
+  "name": "Procter & Gamble",
+  "slugs": [
+   "pg",
+   "pgcareers"
+  ],
+  "careers": "https://www.pgcareers.com",
+  "tier": "big"
+ },
+ {
+  "name": "Johnson & Johnson",
+  "slugs": [
+   "jnj",
+   "jj"
+  ],
+  "careers": "https://www.careers.jnj.com",
+  "tier": "big"
+ }
+]
