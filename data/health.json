@@ -4,7 +4,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 917
+  "last_n": 919
  },
  "State Street": {
   "best": 173,
@@ -14,11 +14,11 @@
   "last_n": 173
  },
  "John Hancock / Manulife": {
-  "best": 99,
+  "best": 102,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 99
+  "last_n": 102
  },
  "Liberty Mutual": {
   "best": 33,
@@ -53,14 +53,14 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 360
+  "last_n": 352
  },
  "Point72": {
   "best": 197,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 197
+  "last_n": 195
  },
  "Wolf & Company": {
   "best": 1,
@@ -91,11 +91,11 @@
   "last_n": 4
  },
  "TJX": {
-  "best": 154,
+  "best": 155,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 154
+  "last_n": 155
  },
  "Wayfair": {
   "best": 1,
@@ -112,17 +112,17 @@
   "last_n": 113
  },
  "General Electric": {
-  "best": 121,
+  "best": 122,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 121
+  "last_n": 122
  },
  "Procter & Gamble": {
-  "best": 261,
+  "best": 262,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 261
+  "last_n": 262
  }
 }
