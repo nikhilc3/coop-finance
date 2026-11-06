@@ -1,50 +1,55 @@
 fetching ATS boards…
-  JPMorgan Chase               oracle_hcm       905 jobs  17.9s
-  State Street                 phenom           176 jobs  2.1s
-  John Hancock / Manulife      phenom           102 jobs  1.8s
-  Liberty Mutual               eightfold         32 jobs  2.3s
-  PNC                          phenom            85 jobs  1.2s
-  Northwestern Mutual          smartrecruiters    69 jobs  0.6s
-  The Hanover                  greenhouse         3 jobs  0.2s
-  Mastercard                   phenom           347 jobs  2.8s
-  Point72                      greenhouse       200 jobs  0.1s
-  Wolf & Company               smartrecruiters     1 jobs  0.6s
-  Boston Consulting Group      eightfold        113 jobs  6.1s
-  Charles River Associates     greenhouse        96 jobs  0.1s
+  JPMorgan Chase               oracle_hcm       904 jobs  21.1s
+  State Street                 phenom           176 jobs  1.5s
+  John Hancock / Manulife      phenom           104 jobs  2.2s
+  Liberty Mutual               eightfold         31 jobs  3.9s
+  PNC                          phenom            84 jobs  1.1s
+  Northwestern Mutual          smartrecruiters    69 jobs  0.5s
+  The Hanover                  greenhouse         3 jobs  0.1s
+  Mastercard                   phenom           346 jobs  2.7s
+  Point72                      greenhouse       201 jobs  0.2s
+  Wolf & Company               smartrecruiters     1 jobs  0.4s
+  Boston Consulting Group      eightfold        114 jobs  9.0s
+  Charles River Associates     greenhouse        94 jobs  0.2s
   Cornerstone Research         greenhouse         4 jobs  0.1s
-  TJX                          phenom           152 jobs  2.5s
-  Wayfair                      smartrecruiters     1 jobs  0.5s
-  HubSpot                      greenhouse       121 jobs  0.2s
-  General Electric             phenom            90 jobs  1.2s
-  Procter & Gamble             phenom           263 jobs  3.9s
+  TJX                          phenom           153 jobs  1.5s
+  Wayfair                      smartrecruiters     1 jobs  0.4s
+  HubSpot                      greenhouse       122 jobs  0.3s
+  General Electric             phenom            95 jobs  1.3s
+  Procter & Gamble             phenom           265 jobs  3.1s
 fetching GitHub lists…
 fetching internlist.org (Simplify) lists…
-  internlist:coop             3028 jobs  21.2s
-  internlist:boston            503 jobs  3.6s
-  internlist:nyc              2026 jobs  11.9s
+  internlist:coop             3008 jobs  16.8s
+  internlist:boston            502 jobs  4.3s
+  internlist:nyc              2038 jobs  14.0s
 LinkedIn/Indeed sweep…
   jobspy 'finance intern summer 2027': 80 new
-  jobspy 'corporate finance intern 2027': 58 new
-  jobspy 'FP&A intern': 45 new
-  jobspy 'financial analyst intern 2027': 27 new
-  jobspy 'accounting intern summer 2027': 57 new
-  jobspy 'audit intern 2027': 63 new
-  jobspy 'tax intern summer 2027': 54 new
-  jobspy 'treasury intern': 74 new
-  jobspy 'investment banking summer analyst 2027': 11 new
-  jobspy 'equity research intern': 63 new
-  jobspy 'asset management intern 2027': 55 new
-  jobspy 'wealth management intern 2027': 43 new
-  jobspy 'private equity intern': 13 new
-  jobspy 'business analyst intern 2027': 64 new
-  jobspy 'strategy intern 2027': 57 new
-  jobspy 'consulting intern summer 2027': 57 new
-  jobspy 'finance co-op fall 2027': 24 new
-  jobspy 'accounting co-op fall 2027': 16 new
-  jobspy 'business co-op 2027': 54 new
+  jobspy 'corporate finance intern 2027': 53 new
+WARNING:jobspy.linkedin:job 4488024141: response status code 429 (blocked: use a proxy)
+  jobspy 'FP&A intern': 46 new
+  jobspy 'financial analyst intern 2027': 24 new
+  jobspy 'accounting intern summer 2027': 63 new
+  jobspy 'audit intern 2027': 57 new
+  jobspy 'tax intern summer 2027': 49 new
+  jobspy 'treasury intern': 71 new
+  jobspy 'investment banking summer analyst 2027': 12 new
+  jobspy 'equity research intern': 55 new
+  jobspy 'asset management intern 2027': 59 new
+  jobspy 'wealth management intern 2027': 42 new
+  jobspy 'private equity intern': 15 new
+WARNING:jobspy.linkedin:job 4488156013: response status code 429 (blocked: use a proxy)
+ERROR:jobspy.linkedin:response status code 429 (blocked: use a proxy)
+  jobspy 'business analyst intern 2027': 32 new
+WARNING:jobspy.linkedin:job 4469060267: response status code 429 (blocked: use a proxy)
+  jobspy 'strategy intern 2027': 60 new
+  jobspy 'consulting intern summer 2027': 61 new
+  jobspy 'finance co-op fall 2027': 23 new
+  jobspy 'accounting co-op fall 2027': 14 new
+  jobspy 'business co-op 2027': 56 new
+WARNING:jobspy.linkedin:job 4488433843: response status code 429 (blocked: use a proxy)
   jobspy 'finance co-op Boston': 10 new
   jobspy 'summer analyst Boston': 18 new
-openings: 0 | sheet.csv: 1330 {'FINANCE': 711, 'BUSINESS': 326, 'MAYBE': 230, 'OTHER': 63} {'APPLY NOW': 317, 'APPLY': 159, 'SOON': 37, 'WATCH': 817} | watchlist: 7 | events: 0
+openings: 0 | sheet.csv: 1327 {'FINANCE': 705, 'BUSINESS': 326, 'MAYBE': 230, 'OTHER': 66} {'APPLY NOW': 312, 'APPLY': 154, 'SOON': 37, 'WATCH': 824} | watchlist: 7 | events: 0
 
-raw=9260 kept=1330 new=71 rejected=7568
-rank: {'A': 476, 'B': 191, 'C': 663}  reject reasons: {'not intern': 2667, 'excluded title': 2296, 'no finance/business keyword': 2185, 'non-US': 253, 'spring/winter only': 72, 'grad/mba only': 49, 'quant/tech only': 39, '2026 term (past)': 7}
+raw=9215 kept=1327 new=44 rejected=7534
+rank: {'A': 466, 'B': 190, 'C': 671}  reject reasons: {'not intern': 2661, 'excluded title': 2281, 'no finance/business keyword': 2175, 'non-US': 252, 'spring/winter only': 71, 'grad/mba only': 49, 'quant/tech only': 38, '2026 term (past)': 7}
