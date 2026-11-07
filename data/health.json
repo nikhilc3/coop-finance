@@ -53,7 +53,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 345
+  "last_n": 344
  },
  "Point72": {
   "best": 201,
@@ -95,7 +95,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 155
+  "last_n": 154
  },
  "Wayfair": {
   "best": 1,
