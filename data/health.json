@@ -4,7 +4,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 904
+  "last_n": 895
  },
  "State Street": {
   "best": 176,
@@ -53,7 +53,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 346
+  "last_n": 345
  },
  "Point72": {
   "best": 201,
@@ -91,11 +91,11 @@
   "last_n": 4
  },
  "TJX": {
-  "best": 155,
+  "best": 156,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 153
+  "last_n": 156
  },
  "Wayfair": {
   "best": 1,
@@ -116,7 +116,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 95
+  "last_n": 91
  },
  "Procter & Gamble": {
   "best": 265,
