@@ -4,14 +4,14 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 894
+  "last_n": 891
  },
  "State Street": {
   "best": 177,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 177
+  "last_n": 176
  },
  "John Hancock / Manulife": {
   "best": 104,
@@ -95,7 +95,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 154
+  "last_n": 155
  },
  "Wayfair": {
   "best": 1,
@@ -116,7 +116,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 91
+  "last_n": 86
  },
  "Procter & Gamble": {
   "best": 265,
