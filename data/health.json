@@ -32,7 +32,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 84
+  "last_n": 85
  },
  "Northwestern Mutual": {
   "best": 69,
@@ -53,7 +53,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 341
+  "last_n": 338
  },
  "Point72": {
   "best": 201,
@@ -116,7 +116,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 83
+  "last_n": 84
  },
  "Procter & Gamble": {
   "best": 265,
