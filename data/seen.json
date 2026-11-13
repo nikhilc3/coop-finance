@@ -1507,7 +1507,7 @@
 },
 "https://simplify.jobs/jobs/click/9fcd7443-1719-41aa-8ae3-5ab90f639241": {
 "first_seen": "2026-11-05",
-"title": "Business Operations Intern/Co-op",
+"title": "Business Operations Co-op Intern",
 "company": "xAI",
 "desc": ""
 },
@@ -2371,7 +2371,7 @@
 },
 "https://simplify.jobs/jobs/click/d35e6a27-f0c7-4b86-ac51-599a82136391": {
 "first_seen": "2026-11-05",
-"title": "Investment Operations Intern",
+"title": "Summer 2027 Investment Operations Intern",
 "company": "Bracebridge Capital",
 "desc": ""
 },
@@ -5575,8 +5575,8 @@
 },
 "https://www.indeed.com/viewjob": {
 "first_seen": "2026-11-05",
-"title": "Asset Management Intern",
-"company": "AMH",
+"title": "2027 Program Cost and Schedule Control Intern - Northridge CA",
+"company": "Northrop Grumman",
 "desc": ""
 },
 "https://www.linkedin.com/jobs/view/4461271713": {
@@ -7789,7 +7789,7 @@
 },
 "https://simplify.jobs/jobs/click/b749c5b8-4409-4052-9c91-8b453f3903c9": {
 "first_seen": "2026-11-05",
-"title": "SAP EWM Functional Analyst Co-op",
+"title": "SAP SD Functional Analyst Co-op",
 "company": "Lennox International",
 "desc": ""
 },
@@ -7879,7 +7879,7 @@
 },
 "https://simplify.jobs/jobs/click/de5e9cda-b3e7-4106-b6bd-502ad75f7d51": {
 "first_seen": "2026-11-05",
-"title": "Summer Analyst Intern",
+"title": "2027 \u2013 Summer Analyst",
 "company": "Goldman Sachs",
 "desc": ""
 },
@@ -16113,6 +16113,282 @@
 "first_seen": "2026-11-13",
 "title": "Summer Internship - Fleet Pricing",
 "company": "PACCAR Parts",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/a148f1d9-7113-4bcf-bb4f-63775633a9ac": {
+"first_seen": "2026-11-13",
+"title": "Accounting Co-op",
+"company": "Commonwealth of Massachusetts",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/5e1b2c84-f8b6-4b66-98fa-42997578c22b": {
+"first_seen": "2026-11-13",
+"title": "Local College Co-op: Analytical Operations",
+"company": "Dow Chemical Company",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/a29fc517-82a3-4d1c-9173-2161b2725006": {
+"first_seen": "2026-11-13",
+"title": "General Ledger Accounting Co-op",
+"company": "Vertex Pharmaceuticals",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/28670a20-bd13-48c8-a3fc-2719507c935c": {
+"first_seen": "2026-11-13",
+"title": "Business Operations Intern Co-op",
+"company": "xAI",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/019606b0-2271-4be3-bf05-14292deb6ba8": {
+"first_seen": "2026-11-13",
+"title": "Finance Intern",
+"company": "Aptiv",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/76a02d58-3453-4241-9a1f-fe7f1cb84123": {
+"first_seen": "2026-11-13",
+"title": "Sustainability Intern",
+"company": "Berkshire Group",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/006929bf-2972-4e4a-b386-a6f4df1cfa77": {
+"first_seen": "2026-11-13",
+"title": "Real Estate Development Associate Intern",
+"company": "Related Companies",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/c0f84a12-1ee1-4d28-88ba-1283f14c6e48": {
+"first_seen": "2026-11-13",
+"title": "Summer Analyst Intern",
+"company": "Related Companies",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/a0e84060-3b76-4b4c-9df5-cd2a2f1a2a41": {
+"first_seen": "2026-11-13",
+"title": "Analyst Intern",
+"company": "Related Companies",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/475e676a-c150-4663-8905-e25ef94a5024": {
+"first_seen": "2026-11-13",
+"title": "Financial Services & Securities Litigation Summer Associate Intern",
+"company": "Orrick",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/50924060-cc61-43dc-a773-6d0f14a6e289": {
+"first_seen": "2026-11-13",
+"title": "Pharmacy Grad Intern",
+"company": "Walgreens",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/55c01934-d827-4f4e-ba9e-5d19dc4221f3": {
+"first_seen": "2026-11-13",
+"title": "Real Estate Capital Intern",
+"company": "KeyBank",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/05db53e8-06ac-4c35-9f36-918e9d7ee3c2": {
+"first_seen": "2026-11-13",
+"title": "Data Analyst Intern",
+"company": "The New York Times",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/f41538db-f9a0-4231-a5d5-3ab6ddd88846": {
+"first_seen": "2026-11-13",
+"title": "Corporate Risk and Broking Intern",
+"company": "WTW",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/03a71c70-4495-4a44-9e00-25c9c499ec79": {
+"first_seen": "2026-11-13",
+"title": "Export Intern",
+"company": "Lactalis",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/288d1a9c-e417-41a9-b497-62a625d6cd7a": {
+"first_seen": "2026-11-13",
+"title": "Summer Student Intern",
+"company": "Voya Financial",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/88a9d2bc-528b-49c2-9910-e2afe11e99fb": {
+"first_seen": "2026-11-13",
+"title": "Insurance Solutions Intern",
+"company": "Voya Financial",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/f9a08bd6-c609-4f9f-be38-7377784cb272": {
+"first_seen": "2026-11-13",
+"title": "Student Intern",
+"company": "Voya Financial",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/0175252d-e35d-41e6-b143-17ce6e2ac60b": {
+"first_seen": "2026-11-13",
+"title": "Compliance Intern",
+"company": "Apple Bank",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/b77eef06-2df0-406a-8aea-9aee8527e42c": {
+"first_seen": "2026-11-13",
+"title": "Legal Intern",
+"company": "Arch Capital Group",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/5f1c3b09-cf9c-4d0a-bf54-30a810867104": {
+"first_seen": "2026-11-13",
+"title": "Tax Intern",
+"company": "Armanino",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/c48e887b-3e06-4dca-8e23-6124432f512c": {
+"first_seen": "2026-11-13",
+"title": "Transfer Pricing Intern",
+"company": "Grant Thornton",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4490593521": {
+"first_seen": "2026-11-13",
+"title": "Public Finance - Intern",
+"company": "FNBO",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4462548842": {
+"first_seen": "2026-11-13",
+"title": "Summer 2027 Intern - Financial Analyst - Undergraduate & MBA",
+"company": "WD",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4437870736": {
+"first_seen": "2026-11-13",
+"title": "2027 Global Finance & Business Management - Summer Analyst  (OH, IL, DE, TX)",
+"company": "JPMorganChase",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465600881": {
+"first_seen": "2026-11-13",
+"title": "Financial/Actuarial Analyst Intern - June 2027",
+"company": "Lockton",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4488549494": {
+"first_seen": "2026-11-13",
+"title": "2027 \u2013 Summer Associate Internship - Global Banking, Energy, Resources & Infrastructure (Project Finance)",
+"company": "BNP Paribas",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465083450": {
+"first_seen": "2026-11-13",
+"title": "Audit Internship - Spring 2028",
+"company": "Wipfli",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465303327": {
+"first_seen": "2026-11-13",
+"title": "Audit Internship - Spring 2028",
+"company": "Wipfli",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4480071141": {
+"first_seen": "2026-11-13",
+"title": "Assurance Intern, Risk Advisory Services - Summer 2027 (Boston)",
+"company": "BDO USA",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4488590842": {
+"first_seen": "2026-11-13",
+"title": "Internal Audit Intern 2027 - REMOTE",
+"company": "Washington National Insurance Company",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4488531530": {
+"first_seen": "2026-11-13",
+"title": "Audit Intern",
+"company": "Astraventa Global",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4489291331": {
+"first_seen": "2026-11-13",
+"title": "Tax/Audit Intern - Winter 2028 - Denver, COCS, & Salt Lake City, UT",
+"company": "CLA (CliftonLarsonAllen)",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4489285409": {
+"first_seen": "2026-11-13",
+"title": "Tax/Audit Intern - Winter 2028 - Denver, COCS, & Salt Lake City, UT",
+"company": "CLA (CliftonLarsonAllen)",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4490540875": {
+"first_seen": "2026-11-13",
+"title": "Treasury Intern",
+"company": "Origin Bank",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4490546824": {
+"first_seen": "2026-11-13",
+"title": "Quantitative Analyst Intern (Contractual) INVESTMENT ASSOCIATE INTERN",
+"company": "State of Maryland",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4480082573": {
+"first_seen": "2026-11-13",
+"title": "2027 Summer Intern Program",
+"company": "Davenport & Company LLC",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4462569378": {
+"first_seen": "2026-11-13",
+"title": "Client Service Analyst Intern",
+"company": "Clearwater Analytics",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4446178734": {
+"first_seen": "2026-11-13",
+"title": "Intern: Corporate Development M&A",
+"company": "EquipmentShare",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4488635972": {
+"first_seen": "2026-11-13",
+"title": "Associate, Fund Administration (Interns)",
+"company": "Juniper Square",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4472858702": {
+"first_seen": "2026-11-13",
+"title": "Corporate Strategy Manager Summer Internship Positions",
+"company": "Cummins Inc.",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4481620503": {
+"first_seen": "2026-11-13",
+"title": "Business and Administrative Intern - Strategy Analyst",
+"company": "Rivian",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4456161379": {
+"first_seen": "2026-11-13",
+"title": "Intern, Global Transaction Tax - Summer 2027",
+"company": "Alvarez & Marsal",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4489995837": {
+"first_seen": "2026-11-13",
+"title": "Marsh Risk Early Career Program, Summer Intern 2027, Risk Consulting, Central Market",
+"company": "Marsh Agency",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4464903523": {
+"first_seen": "2026-11-13",
+"title": "Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA (Summer 2027)",
+"company": "Liberty Mutual Insurance",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4490542577": {
+"first_seen": "2026-11-13",
+"title": "Commercial Lending Intern",
+"company": "Origin Bank",
 "desc": ""
 }
 }
