@@ -1,139 +1,67 @@
 fetching ATS boards…
-  JPMorgan Chase               oracle_hcm       868 jobs  19.5s
-  State Street                 phenom           201 jobs  1.2s
-  John Hancock / Manulife      phenom           110 jobs  1.9s
-  Liberty Mutual               eightfold         30 jobs  3.5s
-  PNC                          phenom            73 jobs  0.9s
-  Northwestern Mutual          smartrecruiters    69 jobs  0.5s
-  The Hanover                  greenhouse         2 jobs  0.2s
-  Mastercard                   phenom           323 jobs  1.8s
-  Point72                      greenhouse       200 jobs  0.2s
+  JPMorgan Chase               oracle_hcm       870 jobs  19.8s
+  State Street                 phenom           202 jobs  1.2s
+  John Hancock / Manulife      phenom           113 jobs  1.8s
+  Liberty Mutual               eightfold         31 jobs  4.4s
+  PNC                          phenom            73 jobs  0.8s
+  Northwestern Mutual          smartrecruiters    69 jobs  0.4s
+  The Hanover                  greenhouse         2 jobs  0.1s
+  Mastercard                   phenom           321 jobs  2.4s
+  Point72                      greenhouse       200 jobs  0.1s
   Wolf & Company               smartrecruiters     1 jobs  0.4s
-  Boston Consulting Group      eightfold        108 jobs  9.7s
-  Charles River Associates     greenhouse        88 jobs  0.1s
+  Boston Consulting Group      eightfold        106 jobs  9.8s
+  Charles River Associates     greenhouse        85 jobs  0.1s
   Cornerstone Research         greenhouse         4 jobs  0.1s
-  TJX                          phenom           138 jobs  1.0s
+  TJX                          phenom           138 jobs  2.4s
   Wayfair                      smartrecruiters     1 jobs  0.4s
-  HubSpot                      greenhouse       144 jobs  0.2s
-  General Electric             phenom            81 jobs  0.9s
-  Procter & Gamble             phenom           266 jobs  2.2s
+  HubSpot                      greenhouse       147 jobs  0.2s
+  General Electric             phenom            80 jobs  0.9s
+  Procter & Gamble             phenom           255 jobs  3.0s
 fetching GitHub lists…
 fetching internlist.org (Simplify) lists…
-  internlist:coop             2869 jobs  14.9s
-  internlist:boston            486 jobs  3.1s
-  internlist:nyc              2117 jobs  10.9s
+  internlist:coop             2840 jobs  18.2s
+  internlist:boston            476 jobs  3.5s
+  internlist:nyc              2107 jobs  12.1s
 LinkedIn/Indeed sweep…
-WARNING:jobspy.linkedin:job 4473917507: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4473746540: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4462548842: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4464570974: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4480270164: response status code 429 (blocked: use a proxy)
   jobspy 'finance intern summer 2027': 80 new
+  jobspy 'corporate finance intern 2027': 50 new
+  jobspy 'FP&A intern': 40 new
 ERROR:jobspy.linkedin:response status code 429 (blocked: use a proxy)
-  jobspy 'corporate finance intern 2027': 24 new
-ERROR:jobspy.linkedin:response status code 429 (blocked: use a proxy)
-  jobspy 'FP&A intern': 6 new
-WARNING:jobspy.linkedin:job 4490071585: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4481797577: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4428093612: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4483887957: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4473756333: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4481167317: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4488244258: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4487854824: response status code 429 (blocked: use a proxy)
-  jobspy 'financial analyst intern 2027': 37 new
-ERROR:jobspy.linkedin:response status code 429 (blocked: use a proxy)
-  jobspy 'accounting intern summer 2027': 15 new
-WARNING:jobspy.linkedin:job 4481722738: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489255976: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4464671474: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4488298908: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4488531530: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4488590842: response status code 429 (blocked: use a proxy)
-  jobspy 'audit intern 2027': 56 new
-ERROR:jobspy.linkedin:response status code 429 (blocked: use a proxy)
-  jobspy 'tax intern summer 2027': 26 new
-WARNING:jobspy.linkedin:job 4490540875: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4483887957: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4465321314: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4482090304: response status code 429 (blocked: use a proxy)
+  jobspy 'financial analyst intern 2027': 16 new
+WARNING:jobspy.linkedin:job 4454239091: response status code 429 (blocked: use a proxy)
+WARNING:jobspy.linkedin:job 4481245937: response status code 429 (blocked: use a proxy)
+  jobspy 'accounting intern summer 2027': 54 new
+WARNING:jobspy.linkedin:job 4488577205: response status code 429 (blocked: use a proxy)
+WARNING:jobspy.linkedin:job 4489291331: response status code 429 (blocked: use a proxy)
+  jobspy 'audit intern 2027': 52 new
+WARNING:jobspy.linkedin:job 4489275254: response status code 429 (blocked: use a proxy)
+  jobspy 'tax intern summer 2027': 53 new
+WARNING:jobspy.linkedin:job 4471567795: response status code 429 (blocked: use a proxy)
 WARNING:jobspy.linkedin:job 4489642868: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4490593521: response status code 429 (blocked: use a proxy)
-  jobspy 'treasury intern': 73 new
-WARNING:jobspy.linkedin:job 4482192811: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4472791913: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4479492515: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4472799777: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489277837: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4490023213: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489289668: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4481748926: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4480283354: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4490548313: response status code 429 (blocked: use a proxy)
-  jobspy 'investment banking summer analyst 2027': 19 new
-WARNING:jobspy.linkedin:job 4480266236: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4481309212: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4406717649: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4473917507: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4482158039: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489269506: response status code 429 (blocked: use a proxy)
-  jobspy 'equity research intern': 54 new
-WARNING:jobspy.linkedin:job 4480267235: response status code 429 (blocked: use a proxy)
+WARNING:jobspy.linkedin:job 4460955256: response status code 429 (blocked: use a proxy)
+  jobspy 'treasury intern': 74 new
+WARNING:jobspy.linkedin:job 4481606770: response status code 429 (blocked: use a proxy)
+WARNING:jobspy.linkedin:job 4479445657: response status code 429 (blocked: use a proxy)
+  jobspy 'investment banking summer analyst 2027': 17 new
+  jobspy 'equity research intern': 53 new
 WARNING:jobspy.linkedin:job 4452834601: response status code 429 (blocked: use a proxy)
 WARNING:jobspy.linkedin:job 4480733420: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4488250960: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489625401: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489269506: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4488229989: response status code 429 (blocked: use a proxy)
-ERROR:jobspy.linkedin:response status code 429 (blocked: use a proxy)
-  jobspy 'asset management intern 2027': 36 new
-WARNING:jobspy.linkedin:job 4480270164: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4478952221: response status code 429 (blocked: use a proxy)
-  jobspy 'wealth management intern 2027': 46 new
-WARNING:jobspy.linkedin:job 4487844841: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4490043577: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4488635972: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4480257705: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4463559598: response status code 429 (blocked: use a proxy)
+  jobspy 'asset management intern 2027': 42 new
+WARNING:jobspy.linkedin:job 4490040351: response status code 429 (blocked: use a proxy)
+  jobspy 'wealth management intern 2027': 42 new
   jobspy 'private equity intern': 8 new
-WARNING:jobspy.linkedin:job 4489291995: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4472682717: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4490542297: response status code 429 (blocked: use a proxy)
-ERROR:jobspy.linkedin:response status code 429 (blocked: use a proxy)
-  jobspy 'business analyst intern 2027': 38 new
-  jobspy 'strategy intern 2027': 55 new
-WARNING:jobspy.linkedin:job 4488259830: response status code 429 (blocked: use a proxy)
+  jobspy 'business analyst intern 2027': 70 new
+  jobspy 'strategy intern 2027': 48 new
 WARNING:jobspy.linkedin:job 4489998769: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4464570974: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4455970485: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489039905: response status code 429 (blocked: use a proxy)
-  jobspy 'consulting intern summer 2027': 56 new
+  jobspy 'consulting intern summer 2027': 52 new
+  jobspy 'finance co-op fall 2027': 29 new
+WARNING:jobspy.linkedin:job 4473059390: response status code 429 (blocked: use a proxy)
 ERROR:jobspy.linkedin:response status code 429 (blocked: use a proxy)
-  jobspy 'finance co-op fall 2027': 0 new
-ERROR:jobspy.linkedin:response status code 429 (blocked: use a proxy)
-  jobspy 'accounting co-op fall 2027': 0 new
-ERROR:jobspy.linkedin:response status code 429 (blocked: use a proxy)
-  jobspy 'business co-op 2027': 38 new
-WARNING:jobspy.linkedin:job 4489664112: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489298909: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4464648064: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4487857891: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489975840: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4490333595: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489503272: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4490032798: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4488254617: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4490517925: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489069153: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4437870736: response status code 429 (blocked: use a proxy)
-ERROR:jobspy.linkedin:response status code 429 (blocked: use a proxy)
-  jobspy 'finance co-op Boston': 28 new
-WARNING:jobspy.linkedin:job 4489020440: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4484381517: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489501648: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4482156620: response status code 429 (blocked: use a proxy)
-  jobspy 'summer analyst Boston': 23 new
-openings: 0 | sheet.csv: 1188 {'FINANCE': 578, 'BUSINESS': 315, 'MAYBE': 231, 'OTHER': 64} {'APPLY NOW': 207, 'APPLY': 188, 'SOON': 13, 'WATCH': 780} | watchlist: 8 | events: 0
+  jobspy 'accounting co-op fall 2027': 7 new
+  jobspy 'business co-op 2027': 59 new
+  jobspy 'finance co-op Boston': 13 new
+  jobspy 'summer analyst Boston': 20 new
+openings: 0 | sheet.csv: 1306 {'FINANCE': 673, 'BUSINESS': 334, 'MAYBE': 240, 'OTHER': 59} {'APPLY NOW': 293, 'APPLY': 185, 'SOON': 16, 'WATCH': 812} | watchlist: 8 | events: 0
 
-raw=8897 kept=1188 new=46 rejected=7362
-rank: {'A': 395, 'B': 174, 'C': 619}  reject reasons: {'not intern': 2601, 'excluded title': 2216, 'no finance/business keyword': 2159, 'non-US': 234, 'spring/winter only': 64, 'grad/mba only': 48, 'quant/tech only': 37, '2026 term (past)': 3}
+raw=9000 kept=1306 new=88 rejected=7353
+rank: {'A': 478, 'B': 176, 'C': 652}  reject reasons: {'not intern': 2608, 'excluded title': 2207, 'no finance/business keyword': 2147, 'non-US': 231, 'spring/winter only': 72, 'grad/mba only': 47, 'quant/tech only': 38, '2026 term (past)': 3}
