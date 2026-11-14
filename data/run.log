@@ -1,56 +1,55 @@
 fetching ATS boards…
-  JPMorgan Chase               oracle_hcm       868 jobs  37.1s
-  State Street                 phenom           199 jobs  1.9s
-  John Hancock / Manulife      phenom           117 jobs  1.4s
-  Liberty Mutual               eightfold         31 jobs  4.3s
-  PNC                          phenom            75 jobs  0.8s
-  Northwestern Mutual          smartrecruiters    69 jobs  0.5s
-  The Hanover                  greenhouse         2 jobs  0.1s
-  Mastercard                   phenom           318 jobs  1.7s
+  JPMorgan Chase               oracle_hcm       868 jobs  15.3s
+  State Street                 phenom           199 jobs  2.5s
+  John Hancock / Manulife      phenom           117 jobs  2.2s
+  Liberty Mutual               eightfold         31 jobs  2.9s
+  PNC                          phenom            75 jobs  1.5s
+  Northwestern Mutual          smartrecruiters    69 jobs  0.6s
+  The Hanover                  greenhouse         2 jobs  0.2s
+  Mastercard                   phenom           318 jobs  2.7s
   Point72                      greenhouse       200 jobs  0.1s
-  Wolf & Company               smartrecruiters     1 jobs  0.4s
-  Boston Consulting Group      eightfold        106 jobs  8.3s
+  Wolf & Company               smartrecruiters     1 jobs  0.5s
+  Boston Consulting Group      eightfold        106 jobs  5.1s
   Charles River Associates     greenhouse        85 jobs  0.1s
-  Cornerstone Research         greenhouse         4 jobs  0.0s
-  TJX                          phenom           139 jobs  1.0s
-  Wayfair                      smartrecruiters     1 jobs  0.4s
+  Cornerstone Research         greenhouse         4 jobs  0.1s
+  TJX                          phenom           139 jobs  1.5s
+  Wayfair                      smartrecruiters     1 jobs  0.6s
   HubSpot                      greenhouse       147 jobs  0.2s
-  General Electric             phenom            80 jobs  0.9s
-  Procter & Gamble             phenom           253 jobs  1.9s
+  General Electric             phenom            79 jobs  1.7s
+  Procter & Gamble             phenom           253 jobs  2.3s
 fetching GitHub lists…
 fetching internlist.org (Simplify) lists…
-  internlist:coop             2755 jobs  14.7s
-  internlist:boston            504 jobs  3.2s
-  internlist:nyc              2112 jobs  10.3s
+  internlist:coop             2852 jobs  13.2s
+  internlist:boston            503 jobs  3.7s
+  internlist:nyc              2119 jobs  11.1s
 LinkedIn/Indeed sweep…
   jobspy 'finance intern summer 2027': 80 new
-  jobspy 'corporate finance intern 2027': 55 new
-WARNING:jobspy.linkedin:job 4464990318: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4464620610: response status code 429 (blocked: use a proxy)
-  jobspy 'FP&A intern': 38 new
-  jobspy 'financial analyst intern 2027': 17 new
-  jobspy 'accounting intern summer 2027': 54 new
-  jobspy 'audit intern 2027': 46 new
-  jobspy 'tax intern summer 2027': 39 new
-  jobspy 'treasury intern': 71 new
-  jobspy 'investment banking summer analyst 2027': 13 new
+  jobspy 'corporate finance intern 2027': 53 new
+  jobspy 'FP&A intern': 39 new
+  jobspy 'financial analyst intern 2027': 19 new
+  jobspy 'accounting intern summer 2027': 52 new
+WARNING:jobspy.linkedin:job 4489255976: response status code 429 (blocked: use a proxy)
+WARNING:jobspy.linkedin:job 4489262825: response status code 429 (blocked: use a proxy)
+  jobspy 'audit intern 2027': 50 new
+  jobspy 'tax intern summer 2027': 38 new
+  jobspy 'treasury intern': 75 new
+  jobspy 'investment banking summer analyst 2027': 15 new
   jobspy 'equity research intern': 45 new
   jobspy 'asset management intern 2027': 39 new
-WARNING:jobspy.linkedin:job 4464137706: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4489502145: response status code 429 (blocked: use a proxy)
-WARNING:jobspy.linkedin:job 4464653361: response status code 429 (blocked: use a proxy)
-  jobspy 'wealth management intern 2027': 39 new
-  jobspy 'private equity intern': 6 new
-  jobspy 'business analyst intern 2027': 71 new
-  jobspy 'strategy intern 2027': 56 new
-  jobspy 'consulting intern summer 2027': 38 new
-  jobspy 'finance co-op fall 2027': 30 new
-  jobspy 'accounting co-op fall 2027': 9 new
-  jobspy 'business co-op 2027': 58 new
+  jobspy 'wealth management intern 2027': 32 new
+  jobspy 'private equity intern': 5 new
+  jobspy 'business analyst intern 2027': 70 new
+  jobspy 'strategy intern 2027': 53 new
+  jobspy 'consulting intern summer 2027': 31 new
+WARNING:jobspy.linkedin:job 4473509431: response status code 429 (blocked: use a proxy)
+  jobspy 'finance co-op fall 2027': 28 new
+  jobspy 'accounting co-op fall 2027': 11 new
+  jobspy 'business co-op 2027': 60 new
+WARNING:jobspy.linkedin:job 4489841304: response status code 429 (blocked: use a proxy)
+WARNING:jobspy.linkedin:job 4488676142: response status code 429 (blocked: use a proxy)
   jobspy 'finance co-op Boston': 9 new
-WARNING:jobspy.linkedin:job 4460686823: response status code 429 (blocked: use a proxy)
-  jobspy 'summer analyst Boston': 18 new
-openings: 0 | sheet.csv: 1316 {'FINANCE': 690, 'BUSINESS': 335, 'MAYBE': 238, 'OTHER': 53} {'APPLY NOW': 299, 'APPLY': 183, 'SOON': 18, 'WATCH': 816} | watchlist: 7 | events: 0
+  jobspy 'summer analyst Boston': 15 new
+openings: 0 | sheet.csv: 1333 {'FINANCE': 700, 'BUSINESS': 332, 'MAYBE': 243, 'OTHER': 58} {'APPLY NOW': 306, 'APPLY': 189, 'SOON': 18, 'WATCH': 820} | watchlist: 7 | events: 0
 
-raw=8897 kept=1316 new=48 rejected=7235
-rank: {'A': 482, 'B': 173, 'C': 661}  reject reasons: {'not intern': 2594, 'excluded title': 2138, 'no finance/business keyword': 2122, 'non-US': 225, 'spring/winter only': 62, 'grad/mba only': 53, 'quant/tech only': 39, '2026 term (past)': 2}
+raw=8987 kept=1333 new=72 rejected=7315
+rank: {'A': 495, 'B': 175, 'C': 663}  reject reasons: {'not intern': 2598, 'excluded title': 2180, 'no finance/business keyword': 2146, 'non-US': 233, 'spring/winter only': 64, 'grad/mba only': 53, 'quant/tech only': 39, '2026 term (past)': 2}

@@ -3247,7 +3247,7 @@
 },
 "https://simplify.jobs/jobs/click/ca667fbe-98aa-421f-902d-c70a536c1484": {
 "first_seen": "2026-11-05",
-"title": "Global Investments Sustainability Intern",
+"title": "Sustainability Intern",
 "company": "Aflac",
 "desc": ""
 },
@@ -5575,8 +5575,8 @@
 },
 "https://www.indeed.com/viewjob": {
 "first_seen": "2026-11-05",
-"title": "Summer 2027 Financial Analyst Internship",
-"company": "McGrath",
+"title": "Summer 2027 Intern Program: Internal Audit - Brooklyn, NY",
+"company": "National Grid",
 "desc": ""
 },
 "https://www.linkedin.com/jobs/view/4461271713": {
@@ -7879,7 +7879,7 @@
 },
 "https://simplify.jobs/jobs/click/de5e9cda-b3e7-4106-b6bd-502ad75f7d51": {
 "first_seen": "2026-11-05",
-"title": "Summer Analyst Intern",
+"title": "2027 \u2013 Summer Analyst",
 "company": "Goldman Sachs",
 "desc": ""
 },
@@ -17499,6 +17499,438 @@
 "first_seen": "2026-11-14",
 "title": "Space Planning Analytics Co-op",
 "company": "Ahold Delhaize USA",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/aa62b129-26f4-444f-8787-9212b738004d": {
+"first_seen": "2026-11-14",
+"title": "Expense Management Co-op",
+"company": "Sun Life",
+"desc": ""
+},
+"https://simplify.jobs/jobs/click/e19b7124-1593-43f8-af18-2ead5fae9b44": {
+"first_seen": "2026-11-14",
+"title": "Data Center Growth & Development Intern",
+"company": "Galaxy",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4481958773": {
+"first_seen": "2026-11-14",
+"title": "2028 Summer Analyst - New York M&A / Restructuring Generalist",
+"company": "Lazard",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4481959776": {
+"first_seen": "2026-11-14",
+"title": "2028 Summer Analyst - Charlotte Technology",
+"company": "Lazard",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465696930": {
+"first_seen": "2026-11-14",
+"title": "Economic Damages & Valuation Internship - Summer 2027",
+"company": "J.S. Held LLC",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4489350300": {
+"first_seen": "2026-11-14",
+"title": "2027 Commercial Summer Intern - Houston, TX",
+"company": "Citizens",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4471211754": {
+"first_seen": "2026-11-14",
+"title": "Fixed Income Credit Intern",
+"company": "State of Wisconsin Investment Board",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4472809384": {
+"first_seen": "2026-11-14",
+"title": "Energy Consulting Intern - Financial and Planning Group (Summer 2027)",
+"company": "Sargent & Lundy",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4472975837": {
+"first_seen": "2026-11-14",
+"title": "Summer 2027 Commercial Banking Intern: Miami, FL",
+"company": "SouthState Bank",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4463490715": {
+"first_seen": "2026-11-14",
+"title": "Summer 2027 Commercial Banking Intern - McKinney, TX",
+"company": "SouthState Bank",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465823650": {
+"first_seen": "2026-11-14",
+"title": "Investment Summer Analyst (Summer 2027 Start Date)",
+"company": "Advantage Capital",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4464581058": {
+"first_seen": "2026-11-14",
+"title": "Intern, Damages & Valuations (Summer 2027)",
+"company": "Secretariat",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4474733554": {
+"first_seen": "2026-11-14",
+"title": "Strategy& Deals Strategy Private Equity Senior Associate Intern - Summer 2027",
+"company": "PwC",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4489339880": {
+"first_seen": "2026-11-14",
+"title": "Corporate Development Intern",
+"company": "Solvyr",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4480677788": {
+"first_seen": "2026-11-14",
+"title": "Corporate Strategy Analyst Intern 2027",
+"company": "Cargill",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4489339879": {
+"first_seen": "2026-11-14",
+"title": "Financial Planning and Analysis (FP&A) Intern",
+"company": "Camping World",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4481925735": {
+"first_seen": "2026-11-14",
+"title": "2027 Summer Intern - FP&A",
+"company": "Papa Johns",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4483193120": {
+"first_seen": "2026-11-14",
+"title": "Summer 2027 Intern - Finance (Financial Planning & Analysis)",
+"company": "ATI",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4483120955": {
+"first_seen": "2026-11-14",
+"title": "Financial Planning & Analysis (FP&A) Analyst Intern",
+"company": "MSIG USA",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465887026": {
+"first_seen": "2026-11-14",
+"title": "Finance FP&A Intern (Summer 2027)",
+"company": "Vertiv",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4480684350": {
+"first_seen": "2026-11-14",
+"title": "Finance Intern",
+"company": "Loenbro",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4491064304": {
+"first_seen": "2026-11-14",
+"title": "FP&A Intern",
+"company": "Seaboard Energy",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4489354061": {
+"first_seen": "2026-11-14",
+"title": "Finance & Accounting Intern",
+"company": "Aldenaire",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4489344564": {
+"first_seen": "2026-11-14",
+"title": "Finance Intern",
+"company": "TechVyne",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4491068649": {
+"first_seen": "2026-11-14",
+"title": "Finance Intern",
+"company": "ACCA Careers",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4481954958": {
+"first_seen": "2026-11-14",
+"title": "2028 Summer Analyst - Chicago Healthcare",
+"company": "Lazard",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4463914936": {
+"first_seen": "2026-11-14",
+"title": "Molex 2027 Finance Internship",
+"company": "Molex",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4444591704": {
+"first_seen": "2026-11-14",
+"title": "Summer Accounting Intern",
+"company": "KWC CPAs",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4491080057": {
+"first_seen": "2026-11-14",
+"title": "Audit Internship- Summer 2027",
+"company": "ACCA Careers",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465317331": {
+"first_seen": "2026-11-14",
+"title": "Summer Associate Internship (Internal Audit - Operational Audit)",
+"company": "Navy Federal Credit Union",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4490546389": {
+"first_seen": "2026-11-14",
+"title": "Internal Audit Intern 2027 - REMOTE",
+"company": "CNO Financial Group",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4491076321": {
+"first_seen": "2026-11-14",
+"title": "Audit Internship - Spring 2028",
+"company": "ACCA Careers",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4491080061": {
+"first_seen": "2026-11-14",
+"title": "Audit Internship - Spring 2028",
+"company": "ACCA Careers",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4455549485": {
+"first_seen": "2026-11-14",
+"title": "Aprio 2028 Internship Application - Tax/Audit - Dedham, MA",
+"company": "Aprio",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465316382": {
+"first_seen": "2026-11-14",
+"title": "Tax Intern (Summer 2027)",
+"company": "The Andersons, Inc.",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4475089038": {
+"first_seen": "2026-11-14",
+"title": "Winter Tax Internship: January - March 2027 (Seattle)",
+"company": "Brighton Jones",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4475083230": {
+"first_seen": "2026-11-14",
+"title": "Winter Tax Internship: January - March 2027 (Dallas)",
+"company": "Brighton Jones",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4457012465": {
+"first_seen": "2026-11-14",
+"title": "Finance Intern - Treasury",
+"company": "Sysco",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4489885398": {
+"first_seen": "2026-11-14",
+"title": "Treasury & Credit Intern",
+"company": "CVR Energy, Inc.",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4483181936": {
+"first_seen": "2026-11-14",
+"title": "Summer 2027 Enterprise Payments Internship",
+"company": "Huntington National Bank",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4483185841": {
+"first_seen": "2026-11-14",
+"title": "Summer 2027 Enterprise Payments Internship",
+"company": "Huntington National Bank",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465884350": {
+"first_seen": "2026-11-14",
+"title": "2027 Summer Internship Program \u2013 Systematic Execution Research, New York",
+"company": "Brevan Howard",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4481952983": {
+"first_seen": "2026-11-14",
+"title": "2028 Summer Analyst - New York Capital Solutions",
+"company": "Lazard",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465802401": {
+"first_seen": "2026-11-14",
+"title": "Summer Intern - Investments - Private Debt & Equity",
+"company": "Reinsurance Group of America, Incorporated",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4464570975": {
+"first_seen": "2026-11-14",
+"title": "Intern, Damages & Valuations (Summer 2027)",
+"company": "Secretariat",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4472970815": {
+"first_seen": "2026-11-14",
+"title": "Small Cap Equities Intern",
+"company": "State of Wisconsin Investment Board",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4489859989": {
+"first_seen": "2026-11-14",
+"title": "Index Analyst Intern (Summer 2027)",
+"company": "Syntax Data",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4481954902": {
+"first_seen": "2026-11-14",
+"title": "2028 Summer Analyst - New York Shareholder Advisory & Activism Defense",
+"company": "Lazard",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4472572797": {
+"first_seen": "2026-11-14",
+"title": "Investment Analyst Intern",
+"company": "Cerity Partners",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4483187550": {
+"first_seen": "2026-11-14",
+"title": "Asset Management Intern",
+"company": "Realty Income Corporation",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465153169": {
+"first_seen": "2026-11-14",
+"title": "Operations Internship - Alternative Investments - Summer 2027",
+"company": "Zurich North America",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4481918036": {
+"first_seen": "2026-11-14",
+"title": "Intern",
+"company": "UBS",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4481952984": {
+"first_seen": "2026-11-14",
+"title": "Intern",
+"company": "UBS",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4474530089": {
+"first_seen": "2026-11-14",
+"title": "Retail Intern - Summer 2027",
+"company": "Nicolet National Bank",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4462558442": {
+"first_seen": "2026-11-14",
+"title": "Client Service Analyst Intern",
+"company": "Clearwater Analytics",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4474734556": {
+"first_seen": "2026-11-14",
+"title": "Strategy& Deals Strategy Senior Associate Intern - Summer 2027",
+"company": "PwC",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4427487995": {
+"first_seen": "2026-11-14",
+"title": "Business Analyst / PMO Intern",
+"company": "Autoliv",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4474735474": {
+"first_seen": "2026-11-14",
+"title": "Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2027",
+"company": "PwC",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4474725850": {
+"first_seen": "2026-11-14",
+"title": "Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2027",
+"company": "PwC",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465312386": {
+"first_seen": "2026-11-14",
+"title": "Summer Associate Internship (Experience Analyst)",
+"company": "Navy Federal Credit Union",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465879111": {
+"first_seen": "2026-11-14",
+"title": "IT Oracle CPQ Intern (Summer 2027)",
+"company": "Vertiv",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4446303542": {
+"first_seen": "2026-11-14",
+"title": "Associate Consultant Intern",
+"company": "Appian",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4474724869": {
+"first_seen": "2026-11-14",
+"title": "Strategy& Strategy Consulting Senior Associate Intern - Summer 2027",
+"company": "PwC",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465312378": {
+"first_seen": "2026-11-14",
+"title": "Summer Associate Internship (Strategy and Innovation)",
+"company": "Navy Federal Credit Union",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4489354112": {
+"first_seen": "2026-11-14",
+"title": "Technical Sales & Consulting Intern",
+"company": "Cliffton Verge",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4491051936": {
+"first_seen": "2026-11-14",
+"title": "Accounting Intern",
+"company": "Pratt Industries",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4489290334": {
+"first_seen": "2026-11-14",
+"title": "Tax/Audit Intern - Winter 2028 - Denver, COCS, & Salt Lake City, UT",
+"company": "CLA (CliftonLarsonAllen)",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4483155397": {
+"first_seen": "2026-11-14",
+"title": "2027 Summer Intern - Cannabis Banking (Raleigh, NC)",
+"company": "First Citizens Bank",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4455324580": {
+"first_seen": "2026-11-14",
+"title": "Intern/Co-op - Commercial (Summer 2027)",
+"company": "Marathon Petroleum Corporation",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4446948052": {
+"first_seen": "2026-11-14",
+"title": "Correspondent Analyst Intern",
+"company": "SouthState Bank",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4465878120": {
+"first_seen": "2026-11-14",
+"title": "Finance Intern - SEC Reporting (Summer 2027)",
+"company": "Vertiv",
+"desc": ""
+},
+"https://www.linkedin.com/jobs/view/4481972037": {
+"first_seen": "2026-11-14",
+"title": "2028 Summer Analyst - Minneapolis Industrials & Technology",
+"company": "Lazard",
 "desc": ""
 }
 }
