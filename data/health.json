@@ -11,7 +11,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 197
+  "last_n": 194
  },
  "John Hancock / Manulife": {
   "best": 119,
@@ -95,7 +95,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 137
+  "last_n": 138
  },
  "Wayfair": {
   "best": 1,
@@ -116,7 +116,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 79
+  "last_n": 80
  },
  "Procter & Gamble": {
   "best": 269,
