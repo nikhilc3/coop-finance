@@ -11,7 +11,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 194
+  "last_n": 195
  },
  "John Hancock / Manulife": {
   "best": 119,
@@ -53,7 +53,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 317
+  "last_n": 316
  },
  "Point72": {
   "best": 201,
@@ -95,7 +95,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 138
+  "last_n": 129
  },
  "Wayfair": {
   "best": 1,
