@@ -4,14 +4,14 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 858
+  "last_n": 861
  },
  "State Street": {
-  "best": 206,
+  "best": 209,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 206
+  "last_n": 209
  },
  "John Hancock / Manulife": {
   "best": 120,
@@ -25,14 +25,14 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 31
+  "last_n": 30
  },
  "PNC": {
   "best": 87,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 71
+  "last_n": 69
  },
  "Northwestern Mutual": {
   "best": 69,
@@ -53,7 +53,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 306
+  "last_n": 301
  },
  "Point72": {
   "best": 201,
@@ -84,18 +84,18 @@
   "last_n": 90
  },
  "Cornerstone Research": {
-  "best": 4,
+  "best": 5,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 4
+  "last_n": 5
  },
  "TJX": {
   "best": 156,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 131
+  "last_n": 132
  },
  "Wayfair": {
   "best": 1,
@@ -116,13 +116,13 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 79
+  "last_n": 81
  },
  "Procter & Gamble": {
   "best": 269,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 253
+  "last_n": 252
  }
 }
