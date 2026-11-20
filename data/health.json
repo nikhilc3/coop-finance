@@ -4,21 +4,21 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 852
+  "last_n": 850
  },
  "State Street": {
-  "best": 212,
+  "best": 217,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 212
+  "last_n": 217
  },
  "John Hancock / Manulife": {
   "best": 122,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 120
+  "last_n": 121
  },
  "Liberty Mutual": {
   "best": 33,
@@ -32,7 +32,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 69
+  "last_n": 68
  },
  "Northwestern Mutual": {
   "best": 69,
@@ -53,14 +53,14 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 277
+  "last_n": 274
  },
  "Point72": {
   "best": 203,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 203
+  "last_n": 202
  },
  "Wolf & Company": {
   "best": 1,
@@ -74,7 +74,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 109
+  "last_n": 110
  },
  "Charles River Associates": {
   "best": 96,
@@ -95,7 +95,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 134
+  "last_n": 135
  },
  "Wayfair": {
   "best": 1,
@@ -109,7 +109,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 139
+  "last_n": 143
  },
  "General Electric": {
   "best": 122,
