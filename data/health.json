@@ -53,7 +53,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 273
+  "last_n": 270
  },
  "Point72": {
   "best": 203,
@@ -123,6 +123,6 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 254
+  "last_n": 253
  }
 }
