@@ -71,7 +71,9 @@ th{color:var(--mute);font-weight:600;font-size:12px}
     <div class="bar">
       <input type="search" id="q" placeholder="Search company, role, city">
       <div class="chips" id="fits"></div>
+      <label class="tog"><input type="checkbox" id="nolinkedin"> hide LinkedIn</label>
       <label class="tog"><input type="checkbox" id="showdone"> show applied / skipped</label>
+      <span class="meta" id="count"></span>
     </div>
     <p class="legend">Best fit first (Finance, Business, Maybe), then urgency. APPLY NOW = summer or fall 2027 stated and posted in the last week, or deadline within 14 days. APPLY = summer/fall 2027 stated. SOON = co-op with no dates, fresh. WATCH = no dates stated. Your status is saved in this browser.</p>
     <div id="list"></div>
@@ -98,17 +100,26 @@ document.querySelector(".tabs").onclick=e=>{const b=e.target.closest("button");i
   document.querySelectorAll(".tabs button").forEach(x=>x.classList.toggle("on",x===b));
   ["post","open","watch"].forEach(id=>document.getElementById(id).hidden=id!==b.dataset.tab)};
 document.getElementById("q").oninput=render;document.getElementById("showdone").onchange=render;
+// "hide LinkedIn": keeps only postings whose apply link goes somewhere other than linkedin.com (remembered in this browser)
+const NLKEY="fin-board-nolinkedin",nl=document.getElementById("nolinkedin");
+try{nl.checked=localStorage.getItem(NLKEY)==="1"}catch(e){}
+nl.onchange=()=>{try{localStorage.setItem(NLKEY,nl.checked?"1":"0")}catch(e){}render()};
+const host=l=>((String(l||"").match(/^https?:\/\/([^\/?#]+)/i)||[])[1]||"").toLowerCase();
+const isLinkedIn=l=>/(^|\.)linkedin\.com$/.test(host(l));
+const via=l=>{const h=host(l);return !h?"":isLinkedIn(l)?"LinkedIn":/(^|\.)simplify\.jobs$/.test(h)?"Simplify":/(^|\.)indeed\.com$/.test(h)?"Indeed":/(^|\.)glassdoor\./.test(h)?"Glassdoor":/(^|\.)ziprecruiter\.com$/.test(h)?"ZipRecruiter":/(^|\.)google\./.test(h)?"Google Jobs":"company site"};
 function render(){
   const q=document.getElementById("q").value.toLowerCase(),showDone=document.getElementById("showdone").checked;
   const vis=rows.filter(r=>fit=="ALL"||r.fit==fit)
     .filter(r=>!q||(r.company+" "+r.role+" "+r.location).toLowerCase().includes(q))
-    .filter(r=>showDone||!["applied","skip"].includes(status[r.link]));
+    .filter(r=>showDone||!["applied","skip"].includes(status[r.link]))
+    .filter(r=>!nl.checked||!isLinkedIn(r.link));
+  document.getElementById("count").textContent=rows.length?`${vis.length} shown`:"";
   const L=document.getElementById("list");
   if(!vis.length){L.innerHTML=`<div class="empty">${rows.length?"Nothing matches.":"No postings yet. The first scan fills this in."}</div>`;return}
-  L.innerHTML=vis.map(r=>{const st=status[r.link]||"";const term=r.term=="fall"?"Fall 2027":r.term=="summer"?"Summer 2027":r.term=="coop-unspecified"?"Co-op, term not stated":"Term not stated";
+  L.innerHTML=vis.map(r=>{const st=status[r.link]||"";const term=r.term=="fall"?"Fall 2027":r.term=="summer"?"Summer 2027":r.term=="coop-unspecified"?"Co-op, term not stated":r.term=="summer-2028"?"2028 program (next cycle)":"Term not stated";
     return `<div class="row ${esc(r.fit)} ${["applied","skip"].includes(st)?"done":""}"><div class="stripe"></div>
     <div class="main"><a class="role" href="${esc(r.link)}" target="_blank" rel="noopener">${esc(r.role)}</a> <span class="co">· ${esc(r.company)}</span>${r.new?' <span class="newtag">NEW</span>':""}
-    <div class="sub"><span>${esc(term)}</span><span>${esc(r.location)}</span>${r.posted?`<span>posted ${esc(r.posted)}</span>`:""}${r.deadline?`<span><b>deadline ${esc(r.deadline)}</b></span>`:""}${r.nuworks?`<span>${r.nuworks_link?`<a href="${esc(r.nuworks_link)}" target="_blank" rel="noopener">NUWorks</a>`:"NUWorks"}${r.nu_eligible=="NOT QUALIFIED"?" (not qualified)":""}</span>`:""}</div></div>
+    <div class="sub"><span>${esc(term)}</span><span>${esc(r.location)}</span>${via(r.link)?`<span>via ${esc(via(r.link))}</span>`:""}${r.posted?`<span>posted ${esc(r.posted)}</span>`:""}${r.deadline?`<span><b>deadline ${esc(r.deadline)}</b></span>`:""}${r.nuworks?`<span>${r.nuworks_link?`<a href="${esc(r.nuworks_link)}" target="_blank" rel="noopener">NUWorks</a>`:"NUWorks"}${r.nu_eligible=="NOT QUALIFIED"?" (not qualified)":""}</span>`:""}</div></div>
     <div class="side"><span class="tag u-${esc(r.urgency.replace(/ /g,""))}">${esc(r.urgency)}</span>
     <select data-link="${esc(r.link)}" aria-label="status">${["","interested","applied","skip"].map(s=>`<option value="${s}" ${s==st?"selected":""}>${s||"status"}</option>`).join("")}</select></div></div>`}).join("");
 }
