@@ -1,5 +1,22 @@
 [
  {
+  "company": "AARP",
+  "title": "Financial Planning and Analysis Intern (Summer 2027)",
+  "location": "Washington, DC, USA",
+  "url": "https://www.linkedin.com/jobs/view/4488122096",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "financial",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "ACLU Kentucky",
   "title": "Undergraduate or Graduate Intern",
   "location": "New York, NY, USA",
@@ -215,6 +232,7 @@
   "hw": "analyst,investment",
   "tier": "",
   "sources": [
+   "jobspy:indeed",
    "jobspy:linkedin"
   ],
   "first_seen": "2026-11-25",
@@ -425,23 +443,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Amerant Bank",
-  "title": "Undergraduate Intern - Wealth Management Intern",
-  "location": "Coral Gables, FL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486081169",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "wealth management",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "American Express",
   "title": "Campus Undergraduate Summer Internship Program Intern",
   "location": "New York, NY, USA",
@@ -456,6 +457,23 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "American Society of Anesthesiologists\u00ae",
+  "title": "Summer Intern - Finance - Remote",
+  "location": "Schaumburg, IL, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494737609",
+  "posted": "2026-11-24",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "finance",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-25",
   "last_seen": "2026-11-27"
  },
  {
@@ -630,6 +648,23 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "AutoZone",
+  "title": "AutoZone 2027 Summer Internship \u2013 Finance",
+  "location": "Memphis, TN, USA",
+  "url": "https://www.linkedin.com/jobs/view/4469922209",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "finance",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Avery Dennison",
   "title": "Operations Co-op",
   "location": "Miamisburg, OH, USA; Lowell, IN, USA; Neenah, WI, USA",
@@ -648,70 +683,36 @@
  },
  {
   "company": "BNP Paribas",
-  "title": "2028 - Summer Analyst Internship - Global Markets, Sales",
-  "location": "Miami, FL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4484619559",
-  "posted": "2026-11-24",
+  "title": "2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)",
+  "location": "Jersey City, NJ, USA",
+  "url": "https://www.linkedin.com/jobs/view/4440499103",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "summer",
   "rank": "A",
-  "hw": "analyst,global markets",
+  "hw": "consulting,strategy",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-05",
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
-  "company": "BNP Paribas",
-  "title": "2028 - Summer Analyst Internship \u2013 Global Banking, Asset Finance & Securitization",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4484609991",
-  "posted": "2026-11-24",
+  "company": "BNY",
+  "title": "2027 BNY Summer Internship Program \u2013 BNY Investments (Pittsburgh, PA)",
+  "location": "Pittsburgh, PA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4488047579",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "summer",
   "rank": "A",
-  "hw": "analyst,banking,finance",
+  "hw": "investments",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "BNP Paribas",
-  "title": "2028 - Summer Analyst Internship \u2013 Global Banking, Global Capital Markets",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4484616728",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,banking,capital markets",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "BNP Paribas",
-  "title": "2028 - Summer Analyst Internship \u2013 Global Banking, Transaction Banking",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4484616727",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,banking,transaction",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
@@ -733,44 +734,9 @@
  },
  {
   "company": "Baird",
-  "title": "Internship - PWM Investment Solutions (Year-Round)",
-  "location": "Milwaukee, WI, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494958048",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "investment",
-  "tier": "",
-  "sources": [
-   "jobspy:indeed",
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Baird",
-  "title": "Internship \u2013 Private Wealth Management (Cleveland, OH Summer 2027)",
-  "location": "Cleveland, OH, USA",
-  "url": "https://www.linkedin.com/jobs/view/4485799589",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "private wealth",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Baird",
-  "title": "Internship \u2013 Private Wealth Management (Mequon, WI Summer 2027)",
-  "location": "Mequon, WI, USA",
-  "url": "https://www.linkedin.com/jobs/view/4478179502",
+  "title": "Internship \u2013 Private Wealth Management (Owensboro, KY Summer 2027)",
+  "location": "Owensboro, KY, USA",
+  "url": "https://www.linkedin.com/jobs/view/4468773469",
   "posted": "2026-11-25",
   "deadline": "",
   "term": "summer",
@@ -780,7 +746,7 @@
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-06",
+  "first_seen": "2026-11-26",
   "last_seen": "2026-11-27"
  },
  {
@@ -812,7 +778,6 @@
   "hw": "tax",
   "tier": "",
   "sources": [
-   "jobspy:indeed",
    "jobspy:linkedin"
   ],
   "first_seen": "2026-11-26",
@@ -854,40 +819,6 @@
  },
  {
   "company": "Barclays",
-  "title": "Banking Analyst (Capital Markets) Summer Internship Program 2028 New York City",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4492628798",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,banking,capital markets",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-23",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Barclays",
-  "title": "Banking Analyst (Coverage/M&A) Summer Internship Program 2028 New York City",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4492637296",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,banking,m&a",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-23",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Barclays",
   "title": "Banking Analyst Summer Internship Program 2028 Chicago",
   "location": "Chicago, IL, USA",
   "url": "https://www.linkedin.com/jobs/view/4492630705",
@@ -921,57 +852,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Barclays",
-  "title": "Credit Research Analyst Summer Internship Program 2028 New York",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4492647010",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,credit",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-23",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Barclays",
-  "title": "Equity Research Analyst Summer Internship Program 2028 New York",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4492627837",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,equity research",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Barclays",
-  "title": "Public Finance Analyst Summer Internship Program 2028 New York",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4492626840",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,finance",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-23",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "Battery Ventures",
   "title": "Finance Co-op",
   "location": "Boston, MA, USA",
@@ -987,23 +867,6 @@
    "internlist:coop"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Ben E. Keith Company",
-  "title": "ASPIRE - Corporate Credit Intern",
-  "location": "Fort Worth, TX, USA",
-  "url": "https://www.linkedin.com/jobs/view/4493031896",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "credit",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
   "last_seen": "2026-11-27"
  },
  {
@@ -1070,40 +933,6 @@
   "tier": "",
   "sources": [
    "internlist:nyc"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Billerud",
-  "title": "Finance Intern/Co-Op (Quinnesec & Escanaba, MI)",
-  "location": "Escanaba, MI, USA",
-  "url": "https://www.linkedin.com/jobs/view/4461796371",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "finance",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Billerud",
-  "title": "Finance Intern/Co-Op (Quinnesec & Escanaba, MI)",
-  "location": "Quinnesec, MI, USA",
-  "url": "https://www.linkedin.com/jobs/view/4461792441",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "finance",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
   ],
   "first_seen": "2026-11-05",
   "last_seen": "2026-11-27"
@@ -1228,74 +1057,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "CAPTRUST",
-  "title": "2027 Raleigh Summer Internship",
-  "location": "Raleigh, NC, USA",
-  "url": "https://www.linkedin.com/jobs/view/4487586459",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "maybe",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "CCK Strategies",
-  "title": "Tax Intern - Summer 2028",
-  "location": "Frisco, TX, USA",
-  "url": "https://www.linkedin.com/jobs/view/4471159285",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "tax",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "CCK Strategies",
-  "title": "Tax Intern - Summer 2028",
-  "location": "Tulsa, OK, USA",
-  "url": "https://www.linkedin.com/jobs/view/4471159287",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "tax",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "CHEManager International",
-  "title": "Equity Research Analyst Summer Internship Program 2028 New York",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494937619",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,equity research",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "CNH",
   "title": "SOX and External Reporting Intern",
   "location": "Oak Brook, IL, USA",
@@ -1310,6 +1071,23 @@
    "jobspy:linkedin"
   ],
   "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "CVS Health",
+  "title": "Medicaid Strategy & Operations Corporate Internship \u2013 Summer 2027 (Undergraduate)",
+  "location": "Hartford, CT, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494694226",
+  "posted": "2026-11-26",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "operations,strategy",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-25",
   "last_seen": "2026-11-27"
  },
  {
@@ -1347,23 +1125,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Capstone Investment Advisors",
-  "title": "Summer 2027 - Investment Internship NYC",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4469952864",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "investment",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "Carr, Riggs & Ingram",
   "title": "Audit Intern - Summer 2027 (Ontario, CA)",
   "location": "Ontario, CA, USA",
@@ -1373,74 +1134,6 @@
   "term": "summer",
   "rank": "A",
   "hw": "audit",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Cboe Global Markets",
-  "title": "Enterprise Strategy & Corporate Development Intern",
-  "location": "Chicago, IL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4487570159",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "corporate development,strategy",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Cenovus Energy",
-  "title": "Student Co-Op - Lima, Toledo, OR Dublin, OH (Fall 2027)",
-  "location": "Lima, OH, USA",
-  "url": "https://www.linkedin.com/jobs/view/4478715200",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "fall",
-  "rank": "A",
-  "hw": "maybe",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Central Bank",
-  "title": "Business Solutions Intern - Summer 2027",
-  "location": "Lees Summit, MO, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494473566",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "maybe",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Central Bank",
-  "title": "Loan Review & Comm Lending Intern - Summer 2027",
-  "location": "Lees Summit, MO, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494468867",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "maybe",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
@@ -1570,23 +1263,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Cincinnati Children's",
-  "title": "Accounting Summer Co-Op-1",
-  "location": "Cincinnati, OH, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486407607",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "accounting",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "Citi",
   "title": "Technology Summer Analyst Intern",
   "location": "Jersey City, NJ, USA; New York, NY, USA",
@@ -1638,23 +1314,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Coinbase",
-  "title": "Tax Information Reporting Intern",
-  "location": "San Francisco, CA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4468179785",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "tax",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "Commerce Bank",
   "title": "Intern - Commercial Banking, Cape Girardeau (Summer 2027)",
   "location": "Cape Girardeau, MO, USA",
@@ -1672,15 +1331,15 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Corient",
-  "title": "Portfolio Management Intern, Manager Research (Summer 2027)",
-  "location": "Houston, TX, USA",
-  "url": "https://www.linkedin.com/jobs/view/4485014721",
+  "company": "Constellation Brands",
+  "title": "Intern, Investor Relations",
+  "location": "Rochester, NY, USA",
+  "url": "https://www.linkedin.com/jobs/view/4487069531",
   "posted": "2026-11-25",
   "deadline": "",
   "term": "summer",
   "rank": "A",
-  "hw": "portfolio",
+  "hw": "investor relations",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
@@ -1693,6 +1352,23 @@
   "title": "Portfolio Management Intern, Manager Research (Summer 2027)",
   "location": "Dallas, TX, USA",
   "url": "https://www.linkedin.com/jobs/view/4485020504",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "fall",
+  "rank": "A",
+  "hw": "portfolio",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Corient",
+  "title": "Portfolio Management Intern, Manager Research (Summer 2027)",
+  "location": "Houston, TX, USA",
+  "url": "https://www.linkedin.com/jobs/view/4485014721",
   "posted": "2026-11-25",
   "deadline": "",
   "term": "summer",
@@ -1724,12 +1400,12 @@
  },
  {
   "company": "Corient",
-  "title": "Wealth Management Intern (Summer 2027, Newport Beach)",
-  "location": "Newport Beach, CA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4466336466",
+  "title": "Wealth Management Intern (Summer 2027, Portland, ME)",
+  "location": "Portland, ME, USA",
+  "url": "https://www.linkedin.com/jobs/view/4481760622",
   "posted": "2026-11-25",
   "deadline": "",
-  "term": "fall",
+  "term": "summer",
   "rank": "A",
   "hw": "wealth management",
   "tier": "",
@@ -1741,9 +1417,9 @@
  },
  {
   "company": "Corient",
-  "title": "Wealth Management Intern (Summer 2027, Portland, ME)",
-  "location": "Portland, ME, USA",
-  "url": "https://www.linkedin.com/jobs/view/4481760622",
+  "title": "Wealth Management Intern (Summer 2027, San Diego)",
+  "location": "San Diego, CA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4466336477",
   "posted": "2026-11-25",
   "deadline": "",
   "term": "summer",
@@ -1809,23 +1485,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "DTE Energy",
-  "title": "Undergrad Summer Analyst-Corp Strategy",
-  "location": "Detroit, MI, USA",
-  "url": "https://www.linkedin.com/jobs/view/4477918003",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,strategy",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "DV Trading",
   "title": "Quantitative Trading Intern",
   "location": "New York, NY, USA",
@@ -1840,6 +1499,23 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Daiichi Sankyo",
+  "title": "Corporate Finance Intern",
+  "location": "Basking Ridge, NJ, USA",
+  "url": "https://www.linkedin.com/jobs/view/4488061055",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "corporate finance",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-08",
   "last_seen": "2026-11-27"
  },
  {
@@ -1860,13 +1536,30 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "Denali Therapeutics",
+  "title": "Intern, Global Business Insights & Operations",
+  "location": "South San Francisco, CA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494666208",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "operations",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Deutsch Creative",
   "title": "Investment Summer Analyst (Summer 2027 Start Date- NYC)",
   "location": "New York, NY, USA",
   "url": "https://www.linkedin.com/jobs/view/4495250394",
   "posted": "2026-11-26",
   "deadline": "",
-  "term": "fall",
+  "term": "summer",
   "rank": "A",
   "hw": "analyst,investment",
   "tier": "",
@@ -1891,57 +1584,6 @@
    "internlist:boston"
   ],
   "first_seen": "2026-11-21",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Duetti",
-  "title": "2027 Summer Internship - Finance",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4491529519",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "finance",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-17",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "ECG Management Consultants",
-  "title": "Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028",
-  "location": "Boston, MA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494771679",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "consulting",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "ENGIE North America Inc.",
-  "title": "Risk Analytics Intern",
-  "location": "Houston, TX, USA",
-  "url": "https://www.linkedin.com/jobs/view/4488087616",
-  "posted": "2026-11-27",
-  "deadline": "",
-  "term": "fall",
-  "rank": "A",
-  "hw": "analytics,risk",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
@@ -1979,37 +1621,20 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "EisnerAmper",
-  "title": "Financial Advisory Services Intern",
-  "location": "New York, NY, USA",
-  "url": "https://simplify.jobs/jobs/click/b7a8b014-be28-4034-98a6-bd173c837053",
-  "posted": "2026-11-19",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "advisory,financial",
-  "tier": "",
-  "sources": [
-   "internlist:nyc"
-  ],
-  "first_seen": "2026-11-27",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "El Paso Electric Company",
-  "title": "INTERN-SUMMER - ASSET MGMT & COMPLIANCE",
+  "title": "INTERN-SUMMER - ACCOUNTING",
   "location": "El Paso, TX, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494699893",
-  "posted": "2026-11-25",
+  "url": "https://www.linkedin.com/jobs/view/4495212224",
+  "posted": "2026-11-26",
   "deadline": "",
   "term": "summer",
   "rank": "A",
-  "hw": "compliance",
+  "hw": "accounting",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-27",
+  "first_seen": "2026-11-26",
   "last_seen": "2026-11-27"
  },
  {
@@ -2019,7 +1644,7 @@
   "url": "https://www.linkedin.com/jobs/view/4460243946",
   "posted": "2026-11-26",
   "deadline": "",
-  "term": "fall",
+  "term": "summer",
   "rank": "A",
   "hw": "accounting",
   "tier": "",
@@ -2033,24 +1658,7 @@
   "company": "Enterprise Bank & Trust",
   "title": "Credit Intern - Summer 2027",
   "location": "Chandler, AZ, USA",
-  "url": "https://www.linkedin.com/jobs/view/4479568802",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "credit",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-27",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Enterprise Bank & Trust",
-  "title": "Credit Intern - Summer 2027",
-  "location": "Creve Coeur, MO, USA",
-  "url": "https://www.linkedin.com/jobs/view/4479573648",
+  "url": "https://www.linkedin.com/jobs/view/4479563981",
   "posted": "2026-11-26",
   "deadline": "",
   "term": "summer",
@@ -2061,6 +1669,23 @@
    "jobspy:linkedin"
   ],
   "first_seen": "2026-11-06",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Enterprise Bank & Trust",
+  "title": "Credit Intern - Summer 2027",
+  "location": "Creve Coeur, MO, USA",
+  "url": "https://www.linkedin.com/jobs/view/4479563984",
+  "posted": "2026-11-26",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "credit",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-07",
   "last_seen": "2026-11-27"
  },
  {
@@ -2269,23 +1894,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "ExxonMobil",
-  "title": "Students Seeking Internship/Co-op Opportunities in Trading",
-  "location": "Spring, TX, USA",
-  "url": "https://www.linkedin.com/jobs/view/4451475385",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "trading",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "Federal Home Loan Bank of Indianapolis (FHLBI)",
   "title": "Treasury Intern",
   "location": "Indianapolis, IN, USA",
@@ -2300,40 +1908,6 @@
    "jobspy:linkedin"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Federal Reserve Bank of Kansas City",
-  "title": "Economic Research, Internship \u2013 Summer 2027",
-  "location": "Kansas City, MO, USA",
-  "url": "https://www.linkedin.com/jobs/view/4488100051",
-  "posted": "2026-11-27",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "economic",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-08",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Federal Reserve Bank of Kansas City",
-  "title": "Oklahoma City \u2013 Regional Affairs Economics, Internship \u2013 Summer 2027",
-  "location": "Oklahoma City, OK, USA",
-  "url": "https://www.linkedin.com/jobs/view/4488096012",
-  "posted": "2026-11-27",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "economics",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-08",
   "last_seen": "2026-11-27"
  },
  {
@@ -2524,11 +2098,45 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "General Motors",
+  "title": "2027 Summer Intern \u2013 Program Management, GM Defense ,",
+  "location": "Warren, MI, USA",
+  "url": "https://www.linkedin.com/jobs/view/4478596736",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "program management",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Georgia-Pacific LLC",
   "title": "Georgia-Pacific Analyst Intern - Darlington, SC (Summer 2027)",
   "location": "Darlington, SC, USA",
   "url": "https://www.linkedin.com/jobs/view/4477307531",
   "posted": "2026-11-26",
+  "deadline": "",
+  "term": "fall",
+  "rank": "A",
+  "hw": "analyst",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Georgia-Pacific LLC",
+  "title": "Georgia-Pacific Analyst Intern - Halsey, OR (Summer 2027)",
+  "location": "Halsey, OR, USA",
+  "url": "https://www.linkedin.com/jobs/view/4477316095",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "summer",
   "rank": "A",
@@ -2537,7 +2145,24 @@
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-05",
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Georgia-Pacific LLC",
+  "title": "Georgia-Pacific Analyst Intern - Port Hudson, LA (Summer 2027)",
+  "location": "Zachary, LA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4477098854",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "fall",
+  "rank": "A",
+  "hw": "analyst",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-08",
   "last_seen": "2026-11-27"
  },
  {
@@ -2609,23 +2234,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Greystar",
-  "title": "Property Accounting Intern",
-  "location": "Dallas, TX, USA",
-  "url": "https://www.linkedin.com/jobs/view/4459745194",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "accounting",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "Guidehouse",
   "title": "Revenue Cycle Consultant Intern",
   "location": "Los Angeles, CA, USA; Chicago, IL, USA; Arlington County, Arlington, VA, USA",
@@ -2640,6 +2248,41 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-17",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Henkel",
+  "title": "Business Controlling Intern \u2013 Summer 2027",
+  "location": "Madison Heights, MI, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494437623",
+  "posted": "2026-11-24",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "maybe",
+  "tier": "",
+  "sources": [
+   "jobspy:indeed",
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Henkel",
+  "title": "Business Controlling Intern \u2013 Summer 2027",
+  "location": "Bridgewater, NJ, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494455037",
+  "posted": "2026-11-24",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "maybe",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-26",
   "last_seen": "2026-11-27"
  },
  {
@@ -2694,6 +2337,23 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "Hope Gas",
+  "title": "University Intern",
+  "location": "Morgantown, WV, USA",
+  "url": "https://www.linkedin.com/jobs/view/4476612233",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "maybe",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Houlihan Lokey",
   "title": "Financial Analyst Summer Analyst Intern",
   "location": "New York, NY, USA",
@@ -2711,23 +2371,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "IMC Trading",
-  "title": "Research Analyst Intern - Summer 2027",
-  "location": "Chicago, IL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486524995",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "Idaho National Laboratory",
   "title": "Financial Planning and Analysis Intern - Summer 2027",
   "location": "Idaho Falls, ID, USA",
@@ -2742,23 +2385,6 @@
    "jobspy:linkedin"
   ],
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "J.S. Held LLC",
-  "title": "Forensic Accounting Internship - Summer 2027",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494187868",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "accounting",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-24",
   "last_seen": "2026-11-27"
  },
  {
@@ -2881,40 +2507,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Jack Henry",
-  "title": "Enterprise Pricing & Data Analytics Intern - Summer 2027",
-  "location": "Lenexa, KS, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494963316",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analytics,pricing",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-26",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Jack Henry",
-  "title": "Enterprise Pricing & Data Analytics Intern - Summer 2027",
-  "location": "Monett, MO, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494966233",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analytics,pricing",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-26",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "Jump Trading",
   "title": "Quantitative Trader Intern",
   "location": "Chicago, IL, USA; New York, NY, USA",
@@ -2983,37 +2575,38 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Kimley-Horn",
-  "title": "Accounts Payable Intern",
-  "location": "Phoenix, AZ, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494983612",
-  "posted": "2026-11-26",
+  "company": "KeyBank",
+  "title": "2027 Summer Commercial Bank Internship - Cleveland",
+  "location": "Cleveland, OH, USA",
+  "url": "https://www.linkedin.com/jobs/view/4495315736",
+  "posted": "2026-11-27",
   "deadline": "",
-  "term": "fall",
+  "term": "summer",
   "rank": "A",
-  "hw": "maybe",
+  "hw": "commercial",
   "tier": "",
   "sources": [
+   "jobspy:indeed",
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-26",
+  "first_seen": "2026-11-27",
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Kimley-Horn",
-  "title": "Accounts Payable Intern",
-  "location": "Raleigh, NC, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494990328",
-  "posted": "2026-11-26",
+  "company": "Kiewit",
+  "title": "Finance Analyst Intern - Central District (Summer 2027)",
+  "location": "Littleton, CO, USA",
+  "url": "https://www.linkedin.com/jobs/view/4463194706",
+  "posted": "2026-11-27",
   "deadline": "",
-  "term": "fall",
+  "term": "summer",
   "rank": "A",
-  "hw": "maybe",
+  "hw": "analyst,finance",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-26",
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
@@ -3031,23 +2624,6 @@
    "jobspy:linkedin"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Lakefront Biotherapeutics",
-  "title": "Intern, Commercial Strategy",
-  "location": "Chicago, IL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4492654912",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "commercial,strategy",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-24",
   "last_seen": "2026-11-27"
  },
  {
@@ -3170,6 +2746,23 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "LevelUP HCS",
+  "title": "Corporate Banking Intern",
+  "location": "New York, NY, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494934822",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "banking",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Liberty Mutual",
   "title": "Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA (Summer 2027)",
   "location": "Boston, Massachusetts, United States",
@@ -3201,108 +2794,6 @@
    "eightfold"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Lincoln International",
-  "title": "2028 Summer Analyst Intern | CAG",
-  "location": "Chicago, IL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486069298",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Lincoln International",
-  "title": "2028 Summer Analyst Intern | CAG",
-  "location": "Los Angeles, CA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486056555",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Lincoln International",
-  "title": "2028 Summer Analyst Intern | M&A",
-  "location": "Chicago, IL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486070278",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,m&a",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Lincoln International",
-  "title": "2028 Summer Analyst Intern | M&A",
-  "location": "Los Angeles, CA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486067349",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,m&a",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Lincoln International",
-  "title": "2028 Summer Analyst Intern | M&A",
-  "location": "San Francisco, CA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486054566",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,m&a",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Lincoln International",
-  "title": "2028 Summer Analyst Intern | PFA",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486052760",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-26",
   "last_seen": "2026-11-27"
  },
  {
@@ -3357,49 +2848,15 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Lockton",
-  "title": "People Solutions Intern - June 2027",
-  "location": "St Louis, MO, USA",
-  "url": "https://www.linkedin.com/jobs/view/4459598643",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "fall",
-  "rank": "A",
-  "hw": "maybe",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Lockton",
-  "title": "People Solutions Intern - June 2027",
-  "location": "Chicago, IL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4459598644",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "fall",
-  "rank": "A",
-  "hw": "maybe",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Lumentum",
-  "title": "Internship - Sales Support and Market Analyst",
-  "location": "San Jose, CA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4493468470",
+  "company": "Lockheed Martin",
+  "title": "Finance Summer Intern",
+  "location": "Troy, AL, USA",
+  "url": "https://www.linkedin.com/jobs/view/4493441116",
   "posted": "2026-11-25",
   "deadline": "",
   "term": "summer",
   "rank": "A",
-  "hw": "analyst",
+  "hw": "finance",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
@@ -3422,23 +2879,6 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Manasquan Bank",
-  "title": "Teller Intern",
-  "location": "Ocean Township, NJ, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494913585",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "maybe",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
   "last_seen": "2026-11-27"
  },
  {
@@ -3562,6 +3002,23 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "Micron Technology",
+  "title": "Intern - Corporate Development",
+  "location": "San Jose, CA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494907728",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "fall",
+  "rank": "A",
+  "hw": "corporate development",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Mizuho Securities USA",
   "title": "Capital Solutions & Restructuring Summer Analyst Intern",
   "location": "New York, NY, USA",
@@ -3613,11 +3070,62 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Neuberger",
-  "title": "MBA Intern, Stewardship & Sustainable Investing Summer 2027",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4477915508",
-  "posted": "2026-11-24",
+  "company": "Moore Colson",
+  "title": "Risk Advisory Summer 2028 Internship",
+  "location": "Atlanta, GA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4477328028",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "advisory,risk",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "National Interstate Insurance Company",
+  "title": "Accounting Intern- Summer 2027",
+  "location": "Richfield, OH, USA",
+  "url": "https://www.linkedin.com/jobs/view/4460999456",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "accounting",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Nexora Solutions",
+  "title": "Transfer Pricing Intern",
+  "location": "Cincinnati, OH, USA",
+  "url": "https://www.linkedin.com/jobs/view/4493887918",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "pricing",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-27",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Nissan Motor Corporation",
+  "title": "Aftersales Business Planning Intern - Summer 2027 - Franklin, TN",
+  "location": "Franklin, TN, USA",
+  "url": "https://www.linkedin.com/jobs/view/4479836438",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "summer",
   "rank": "A",
@@ -3626,42 +3134,7 @@
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Newrez",
-  "title": "2027 Summer Internship - Investor Reporting Data Systems",
-  "location": "Coppell, TX, USA",
-  "url": "https://www.linkedin.com/jobs/view/4462082146",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "fall",
-  "rank": "A",
-  "hw": "maybe",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Nichols Cauley",
-  "title": "Summer 2027 Tax Intern (Coral Gables, FL)",
-  "location": "Coral Gables, FL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494182492",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "tax",
-  "tier": "",
-  "sources": [
-   "jobspy:indeed",
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-24",
+  "first_seen": "2026-11-07",
   "last_seen": "2026-11-27"
  },
  {
@@ -3696,40 +3169,6 @@
    "smartrecruiters"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Northwestern Mutual",
-  "title": "Public Investments Quantitative Analyst Intern, Summer 2027",
-  "location": "Milwaukee, WI, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494411927",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,investments",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "PFM",
-  "title": "PFM 2027 Summer Intern",
-  "location": "Philadelphia, PA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494402388",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "maybe",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-24",
   "last_seen": "2026-11-27"
  },
  {
@@ -3852,13 +3291,30 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "Phillips 66",
+  "title": "2027 University MBA Intern",
+  "location": "Houston, TX, USA",
+  "url": "https://www.linkedin.com/jobs/view/4471556104",
+  "posted": "2026-11-24",
+  "deadline": "",
+  "term": "fall",
+  "rank": "A",
+  "hw": "maybe",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-10",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Phillips Medisize",
   "title": "Phillips Medisize Accounting & Finance Intern Summer 2027",
   "location": "Hudson, WI, USA",
   "url": "https://www.linkedin.com/jobs/view/4459241086",
   "posted": "2026-11-26",
   "deadline": "",
-  "term": "fall",
+  "term": "summer",
   "rank": "A",
   "hw": "accounting,finance",
   "tier": "",
@@ -3870,19 +3326,36 @@
  },
  {
   "company": "Piper Sandler",
-  "title": "Campus Recruiting - 2027 Investment Banking Summer Associate - Healthcare Services & IT",
-  "location": "Chicago, IL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4493037302",
-  "posted": "2026-11-24",
+  "title": "Campus Recruiting \u2013 2027 Public Finance Special District Group Summer Associate - Houston, TX",
+  "location": "Greater Houston",
+  "url": "https://www.linkedin.com/jobs/view/4459998601",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "summer",
   "rank": "A",
-  "hw": "investment banking",
+  "hw": "finance",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-24",
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Piper Sandler",
+  "title": "Campus Recruiting \u2013 2027 Public Finance Special District Group Summer Associate - Salt Lake City, UT",
+  "location": "Salt Lake City, UT, USA",
+  "url": "https://www.linkedin.com/jobs/view/4459996794",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "finance",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
@@ -4053,23 +3526,6 @@
    "jobspy:linkedin"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Principal Financial Group",
-  "title": "Intern - Client Experience (Investment Ops)",
-  "location": "Des Moines, IA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494459209",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "investment",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
   "last_seen": "2026-11-27"
  },
  {
@@ -4413,40 +3869,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Prologis",
-  "title": "Accounting Intern",
-  "location": "Denver, CO, USA",
-  "url": "https://www.linkedin.com/jobs/view/4478575809",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "accounting",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Prologis",
-  "title": "Investment Analyst Program (IAP) Intern",
-  "location": "San Francisco, CA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4478577687",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,investment",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "Pzena Investment Management",
   "title": "Research Associate Intern",
   "location": "New York, NY, USA",
@@ -4498,20 +3920,20 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "RBC",
-  "title": "2028 Capital Markets, Global Markets Sales & Trading Summer Analyst",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486840375",
-  "posted": "2026-11-24",
+  "company": "RWE",
+  "title": "Business Development Analyst Intern, Flexible Generation, Summer 2027",
+  "location": "Austin, TX, USA",
+  "url": "https://www.linkedin.com/jobs/view/4495222190",
+  "posted": "2026-11-25",
   "deadline": "",
   "term": "summer",
   "rank": "A",
-  "hw": "analyst,capital markets,global markets,sales & trading",
+  "hw": "analyst,business development",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-24",
+  "first_seen": "2026-11-26",
   "last_seen": "2026-11-27"
  },
  {
@@ -4567,37 +3989,20 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Realty Income Corporation",
-  "title": "Accounting & Finance Intern - Multiple Opportunities",
-  "location": "Del Mar, CA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4478730665",
-  "posted": "2026-11-24",
+  "company": "Reckitt",
+  "title": "2027 Finance Spring Internship - Nutley, NJ",
+  "location": "Nutley, NJ, USA",
+  "url": "https://www.linkedin.com/jobs/view/4470239308",
+  "posted": "2026-11-25",
   "deadline": "",
-  "term": "fall",
+  "term": "summer",
   "rank": "A",
-  "hw": "accounting,finance",
+  "hw": "finance",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Reinsurance Group of America, Incorporated",
-  "title": "Summer Intern - Finance & Accounting",
-  "location": "Chesterfield, MO, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486899876",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "accounting,finance",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-26",
   "last_seen": "2026-11-27"
  },
  {
@@ -4627,6 +4032,23 @@
   "term": "summer",
   "rank": "A",
   "hw": "analyst,asset management",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Related Ross",
+  "title": "2027 Summer Analyst, Real Estate Development (Related Ross)",
+  "location": "West Palm Beach, FL, USA",
+  "url": "https://www.linkedin.com/jobs/view/4470684719",
+  "posted": "2026-11-26",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "analyst",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
@@ -4683,23 +4105,6 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Rockefeller Capital Management",
-  "title": "Summer Analyst Intern",
-  "location": "New York, NY, USA",
-  "url": "https://simplify.jobs/jobs/click/14b950ba-f72c-45f5-9c41-74b42c1c613e",
-  "posted": "2026-11-05",
-  "deadline": "2027-11-05",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst",
-  "tier": "",
-  "sources": [
-   "internlist:nyc"
-  ],
-  "first_seen": "2026-11-05",
   "last_seen": "2026-11-27"
  },
  {
@@ -4807,9 +4212,9 @@
  {
   "company": "Ryan",
   "title": "Summer 2027 Intern, Personal Property Tax",
-  "location": "Atlanta, GA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486007206",
-  "posted": "2026-11-24",
+  "location": "La Palma, CA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4486902034",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "summer",
   "rank": "A",
@@ -4818,15 +4223,15 @@
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-05",
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
   "company": "Ryan",
   "title": "Summer 2027 Intern, Personal Property Tax",
-  "location": "Nashville, TN, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486013078",
-  "posted": "2026-11-24",
+  "location": "Overland Park, KS, USA",
+  "url": "https://www.linkedin.com/jobs/view/4486785709",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "summer",
   "rank": "A",
@@ -4835,7 +4240,7 @@
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-05",
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
@@ -4868,23 +4273,6 @@
   "tier": "",
   "sources": [
    "internlist:nyc"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "S&P Global",
-  "title": "Ratings Analytical Intern - Americas",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4469493941",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "maybe",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
   ],
   "first_seen": "2026-11-05",
   "last_seen": "2026-11-27"
@@ -4958,66 +4346,66 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Schonfeld",
-  "title": "2027 Core Operations Intern",
-  "location": "Miami, FL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4495207714",
-  "posted": "2026-11-25",
+  "company": "Schneider Downs",
+  "title": "2028 Audit Summer Intern",
+  "location": "Columbus, OH, USA",
+  "url": "https://www.linkedin.com/jobs/view/4488084805",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "summer",
   "rank": "A",
-  "hw": "operations",
+  "hw": "audit",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-26",
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Security Benefit",
-  "title": "Internship - Investment Accounting",
-  "location": "Overland Park, KS, USA",
-  "url": "https://www.linkedin.com/jobs/view/4495206606",
-  "posted": "2026-11-25",
+  "company": "Schneider Downs",
+  "title": "2028 Tax Summer Intern",
+  "location": "Pittsburgh, PA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4488102158",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "summer",
-  "rank": "A",
-  "hw": "accounting,investment",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-26",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Signet Jewelers",
-  "title": "Tax Intern (Summer, Hybrid)",
-  "location": "Greater Cleveland",
-  "url": "https://www.linkedin.com/jobs/view/4485012923",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "fall",
   "rank": "A",
   "hw": "tax",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-05",
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Spire",
-  "title": "Intern, Accounting",
-  "location": "St Louis, MO, USA",
-  "url": "https://www.linkedin.com/jobs/view/4485788125",
-  "posted": "2026-11-24",
+  "company": "Schneider Downs",
+  "title": "2028 Tax Summer Intern",
+  "location": "Columbus, OH, USA",
+  "url": "https://www.linkedin.com/jobs/view/4488081789",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "summer",
   "rank": "A",
-  "hw": "accounting",
+  "hw": "tax",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "SpartanNash",
+  "title": "Business Development & Analytics Intern - Summer 2027",
+  "location": "Norfolk, VA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4486077594",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "analytics,business development",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
@@ -5230,6 +4618,40 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "Stifel Financial Corp.",
+  "title": "1919 Internship \u2013 Investment Processes and Project Management",
+  "location": "Cincinnati, OH, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494972435",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "investment,project management",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "StratosNex",
+  "title": "Accounting Internship",
+  "location": "Houston, TX, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494216481",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "accounting",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-27",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Susquehanna International Group",
   "title": "Quantitative Systematic Trading Intern",
   "location": "Philadelphia, PA, USA; New York, NY, USA",
@@ -5249,8 +4671,8 @@
  {
   "company": "T-Mobile",
   "title": "Summer 2027 Finance Internship",
-  "location": "Bellevue, WA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494168849",
+  "location": "Frisco, TX, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494172876",
   "posted": "2026-11-26",
   "deadline": "",
   "term": "summer",
@@ -5349,37 +4771,20 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Talcott Financial Group",
-  "title": "Investment Management- Internship",
-  "location": "Greater Hartford",
-  "url": "https://www.linkedin.com/jobs/view/4479780443",
+  "company": "Techtronic Industries - TTI",
+  "title": "TTI Group Finance and Accounting Internship - Summer 2027",
+  "location": "Fort Lauderdale, FL, USA",
+  "url": "https://www.linkedin.com/jobs/view/4469069068",
   "posted": "2026-11-26",
   "deadline": "",
   "term": "summer",
   "rank": "A",
-  "hw": "investment",
+  "hw": "accounting,finance",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Target",
-  "title": "Financial Analyst Intern -  Minneapolis, MN (Starting Summer, 2027)",
-  "location": "Minneapolis, MN, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494110725",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "analyst,financial",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-24",
   "last_seen": "2026-11-27"
  },
  {
@@ -5555,30 +4960,13 @@
  {
   "company": "Uline",
   "title": "Financial Analyst Internship - Summer 2027",
-  "location": "Glenview, IL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4486379228",
+  "location": "Kenosha, WI, USA",
+  "url": "https://www.linkedin.com/jobs/view/4486367959",
   "posted": "2026-11-25",
   "deadline": "",
   "term": "summer",
   "rank": "A",
   "hw": "analyst,financial",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Universal Destinations & Experiences",
-  "title": "Universal Studios Hollywood, Finance & Strategy Internship \u2013 Summer 2027",
-  "location": "Universal City, CA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494494037",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "finance,strategy",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
@@ -5621,15 +5009,32 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Vistra Corp.",
-  "title": "Accounting-Summer Intern-1",
-  "location": "Irving, TX, USA",
-  "url": "https://www.linkedin.com/jobs/view/4485008403",
+  "company": "Vertex Inc.",
+  "title": "Corporate Development Intern",
+  "location": "USA",
+  "url": "https://www.linkedin.com/jobs/view/4494750749",
   "posted": "2026-11-25",
   "deadline": "",
   "term": "summer",
   "rank": "A",
-  "hw": "accounting",
+  "hw": "corporate development",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Vertex Inc.",
+  "title": "Strategy Intern",
+  "location": "USA",
+  "url": "https://www.linkedin.com/jobs/view/4494754820",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "summer",
+  "rank": "A",
+  "hw": "strategy",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
@@ -5804,23 +5209,6 @@
   "tier": "",
   "sources": [
    "internlist:nyc"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Western Alliance Bank",
-  "title": "Summer 2027 Internship - Phoenix, AZ - Juris Banking",
-  "location": "Phoenix, AZ, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494433981",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "summer",
-  "rank": "A",
-  "hw": "banking",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
   ],
   "first_seen": "2026-11-25",
   "last_seen": "2026-11-27"
@@ -6202,6 +5590,23 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "Boeing",
+  "title": "Finance Co-Op",
+  "location": "Wichita, KS, USA",
+  "url": "https://www.linkedin.com/jobs/view/4485856000",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "coop-unspecified",
+  "rank": "B",
+  "hw": "finance",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Bose",
   "title": "Automotive Demand Planning Co-op",
   "location": "Framingham, MA, USA; Troy, MI, USA",
@@ -6285,6 +5690,23 @@
    "internlist:coop"
   ],
   "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Cenovus Energy",
+  "title": "Student Co-Op - Lima, Toledo, OR Dublin, OH (Spring 2028)",
+  "location": "Columbus, OH, USA",
+  "url": "https://www.linkedin.com/jobs/view/4478708497",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "coop-unspecified",
+  "rank": "B",
+  "hw": "maybe",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-27",
   "last_seen": "2026-11-27"
  },
  {
@@ -6935,6 +6357,23 @@
   "tier": "",
   "sources": [
    "internlist:coop"
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "ExxonMobil",
+  "title": "Students Seeking Internship/Co-op Opportunities in Trading",
+  "location": "Spring, TX, USA",
+  "url": "https://www.linkedin.com/jobs/view/4451475385",
+  "posted": "2026-11-26",
+  "deadline": "",
+  "term": "coop-unspecified",
+  "rank": "B",
+  "hw": "trading",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
   ],
   "first_seen": "2026-11-05",
   "last_seen": "2026-11-27"
@@ -8029,23 +7468,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "PwC",
-  "title": "Assurance Co-op",
-  "location": "Hamilton, WA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4493029296",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "coop-unspecified",
-  "rank": "B",
-  "hw": "assurance",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "REGENT",
   "title": "Commercial Business Development Data Intern Co-op",
   "location": "North Kingstown, RI, USA",
@@ -8800,23 +8222,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "ANDRITZ",
-  "title": "Pricing Analyst Intern",
-  "location": "Raleigh, NC, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494123814",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "analyst,pricing",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "AP Beauty",
   "title": "Amazon Content Operations Intern",
   "location": "New York, NY, USA",
@@ -9449,23 +8854,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Avista",
-  "title": "Accounting & Finance Intern (Accounting, Finance, Business Administration, Economics Majors)",
-  "location": "Spokane, WA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494184645",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "accounting,economics,finance",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "Axos Bank",
   "title": "Commercial Lending Intern",
   "location": "New York, NY, USA",
@@ -9939,23 +9327,6 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Barry-Wehmiller",
-  "title": "Future Leaders Program - MBA Internship",
-  "location": "St Louis, MO, USA",
-  "url": "https://www.linkedin.com/jobs/view/4461294759",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "maybe",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-26",
   "last_seen": "2026-11-27"
  },
  {
@@ -10488,6 +9859,23 @@
  {
   "company": "CCK Strategies",
   "title": "Audit & Assurance Intern - Summer 2028",
+  "location": "Frisco, TX, USA",
+  "url": "https://www.linkedin.com/jobs/view/4471146807",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "assurance,audit",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "CCK Strategies",
+  "title": "Audit & Assurance Intern - Summer 2028",
   "location": "Tulsa, OK, USA",
   "url": "https://www.linkedin.com/jobs/view/4471163031",
   "posted": "2026-11-26",
@@ -10534,23 +9922,6 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Capital Blue Cross",
-  "title": "Intern-Financial Planning & Analysis",
-  "location": "Harrisburg, PA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494192513",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "financial",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-24",
   "last_seen": "2026-11-27"
  },
  {
@@ -10639,6 +10010,23 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "Celanese",
+  "title": "Finance Intern (Undergraduate)",
+  "location": "Dallas-Fort Worth Metroplex",
+  "url": "https://www.linkedin.com/jobs/view/4486506349",
+  "posted": "2026-11-26",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "finance",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Charles River Associates",
   "title": "Cyber and Forensic Technology Consulting Analyst/Associate Intern",
   "location": "Boston, MA, USA; Washington, DC, USA; Dallas, TX, USA",
@@ -10653,23 +10041,6 @@
    "internlist:boston"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Charles Schwab",
-  "title": "2027 Treasury Modeling Intern",
-  "location": "Lone Tree, CO, USA",
-  "url": "https://www.linkedin.com/jobs/view/4493444236",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "treasury",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
   "last_seen": "2026-11-27"
  },
  {
@@ -10990,8 +10361,7 @@
   "hw": "tax",
   "tier": "",
   "sources": [
-   "internlist:nyc",
-   "jobspy:linkedin"
+   "internlist:nyc"
   ],
   "first_seen": "2026-11-05",
   "last_seen": "2026-11-27"
@@ -11531,23 +10901,6 @@
  },
  {
   "company": "Deutsche Bank",
-  "title": "Deutsche Bank Internship Program \u2013 Investment Bank & Capital Markets: Investment Bank Coverage \u2013 San Francisco 2027 - Fall Hiring",
-  "location": "San Francisco, CA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4484632243",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "capital markets,investment",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Deutsche Bank",
   "title": "Summer Associate Intern",
   "location": "New York, NY, USA",
   "url": "https://simplify.jobs/jobs/click/f805d106-ec2e-4289-a1a6-f75d8b14570a",
@@ -11731,23 +11084,6 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "El Paso Electric Company",
-  "title": "INTERN-SUMMER - ACCOUNTING",
-  "location": "El Paso, TX, USA",
-  "url": "https://www.linkedin.com/jobs/view/4495212224",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "accounting",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-26",
   "last_seen": "2026-11-27"
  },
  {
@@ -12969,6 +12305,23 @@
  },
  {
   "company": "General Electric",
+  "title": "Information Technology Intern (6 Months)",
+  "location": "Istanbul, T\u00fcrkiye",
+  "url": "https://careers.geaerospace.com/global/en/job/R5043866/information-technology-intern-6-months",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "maybe",
+  "tier": "big",
+  "sources": [
+   "phenom"
+  ],
+  "first_seen": "2026-11-27",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "General Electric",
   "title": "Military DoD SkillBridge Internship - Structure Parts Operations Supervisor (1st Shift)",
   "location": "Springdale, Ohio, United States of America",
   "url": "https://careers.geaerospace.com/global/en/job/R5040965/military-dod-skillbridge-internship-structure-parts-operations-supervisor-1st-sh",
@@ -13084,6 +12437,23 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-13",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Greystar",
+  "title": "Property Accounting Intern",
+  "location": "Tampa, FL, USA",
+  "url": "https://www.linkedin.com/jobs/view/4459737276",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "accounting",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-27",
   "last_seen": "2026-11-27"
  },
  {
@@ -13203,6 +12573,23 @@
    "internlist:boston"
   ],
   "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Hadley Lane",
+  "title": "Transfer Pricing Intern",
+  "location": "Cincinnati, OH, USA",
+  "url": "https://www.linkedin.com/jobs/view/4493890845",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "pricing",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-27",
   "last_seen": "2026-11-27"
  },
  {
@@ -13974,15 +13361,15 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Kimley-Horn",
-  "title": "Treasury / Tax Intern",
-  "location": "Cary, NC, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494988395",
+  "company": "Kiewit",
+  "title": "Finance Analyst Intern - Kiewit Bridge and Marine",
+  "location": "New Orleans, LA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494986043",
   "posted": "2026-11-26",
   "deadline": "",
   "term": "unspecified",
   "rank": "C",
-  "hw": "tax,treasury",
+  "hw": "analyst,finance",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
@@ -13991,20 +13378,20 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Koch Disruptive Technologies",
-  "title": "Summer 2028 Investment Analyst Internship - KDT",
-  "location": "Wichita, KS, USA",
-  "url": "https://www.linkedin.com/jobs/view/4484380637",
-  "posted": "2026-11-24",
+  "company": "Kroll",
+  "title": "Intern, Transfer Pricing",
+  "location": "New York, NY, USA",
+  "url": "https://www.linkedin.com/jobs/view/4477392027",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "unspecified",
   "rank": "C",
-  "hw": "analyst,investment",
+  "hw": "pricing",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-05",
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
@@ -14124,6 +13511,23 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-13",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Lakefront Biotherapeutics",
+  "title": "Intern, Commercial Strategy",
+  "location": "Chicago, IL, USA",
+  "url": "https://www.linkedin.com/jobs/view/4492654912",
+  "posted": "2026-11-26",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "commercial,strategy",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-24",
   "last_seen": "2026-11-27"
  },
  {
@@ -14277,23 +13681,6 @@
    "internlist:boston"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "LevelUP HCS",
-  "title": "Corporate Banking Intern",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494934822",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "banking",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
   "last_seen": "2026-11-27"
  },
  {
@@ -14689,23 +14076,6 @@
  },
  {
   "company": "Micron Technology",
-  "title": "Intern - Corporate Development",
-  "location": "San Jose, CA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494907728",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "corporate development",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Micron Technology",
   "title": "Intern - Micron Ventures",
   "location": "San Jose, CA, USA",
   "url": "https://www.linkedin.com/jobs/view/4479115318",
@@ -14841,20 +14211,20 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Montgomery County Green Bank",
-  "title": "Green Bank Financial Analyst Internship",
-  "location": "Rockville, MD, USA",
-  "url": "https://www.linkedin.com/jobs/view/4493868813",
+  "company": "Mondel\u0113z International",
+  "title": "Corporate Finance Intern",
+  "location": "East Hanover, NJ, USA",
+  "url": "https://www.linkedin.com/jobs/view/4461768935",
   "posted": "2026-11-27",
   "deadline": "",
   "term": "unspecified",
   "rank": "C",
-  "hw": "analyst,financial",
+  "hw": "corporate finance",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-27",
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
@@ -14906,6 +14276,40 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-10",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Nabors Industries",
+  "title": "Intern - Finance",
+  "location": "Houston, TX, USA",
+  "url": "https://www.linkedin.com/jobs/view/4488953982",
+  "posted": "2026-11-26",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "finance",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-15",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "National Basketball Players Association (NBPA)",
+  "title": "Finance Intern Summer",
+  "location": "New York, NY, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494682155",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "finance",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-25",
   "last_seen": "2026-11-27"
  },
  {
@@ -15232,23 +14636,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Oscar Health",
-  "title": "Mergers and Acquisitions Intern",
-  "location": "New York, NY, USA",
-  "url": "https://www.linkedin.com/jobs/view/4493032284",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "mergers",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "PIMCO",
   "title": "Client Management Account Analyst Intern",
   "location": "Newport Beach, CA, USA; Austin, TX, USA; New York, NY, USA",
@@ -15368,23 +14755,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "PNC",
-  "title": "Asset Management Group Undergraduate Intern",
-  "location": "Dallas, TX, USA",
-  "url": "https://www.linkedin.com/jobs/view/4495544957",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "asset management",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-27",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "PTC",
   "title": "Quality Assurance Intern",
   "location": "Boston, MA, USA",
@@ -15436,61 +14806,27 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Piper Sandler",
-  "title": "Campus Recruiting - 2027 Investment Banking Summer Associate - Healthcare Services & IT",
-  "location": "Minneapolis, MN, USA",
-  "url": "https://www.linkedin.com/jobs/view/4493035359",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "investment banking",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Plante Moran",
-  "title": "2027 Digital Transformation Services Consulting Intern",
-  "location": "Southfield, MI, USA",
-  "url": "https://www.linkedin.com/jobs/view/4460228221",
-  "posted": "2026-11-26",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "consulting",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Plante Moran",
-  "title": "2027 Public Sector & Infrastructure Consulting Intern",
-  "location": "Chicago, IL, USA",
-  "url": "https://www.linkedin.com/jobs/view/4460656617",
+  "company": "Paradies Lagard\u00e8re",
+  "title": "Finance Intern",
+  "location": "Atlanta Metropolitan Area",
+  "url": "https://www.linkedin.com/jobs/view/4477704462",
   "posted": "2026-11-27",
   "deadline": "",
   "term": "unspecified",
   "rank": "C",
-  "hw": "consulting",
+  "hw": "finance",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-05",
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
   "company": "Plante Moran",
   "title": "2027 Realpoint Project Analyst Intern",
-  "location": "Southfield, MI, USA",
-  "url": "https://www.linkedin.com/jobs/view/4461337899",
+  "location": "Denver, CO, USA",
+  "url": "https://www.linkedin.com/jobs/view/4461344556",
   "posted": "2026-11-27",
   "deadline": "",
   "term": "unspecified",
@@ -15500,7 +14836,7 @@
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-08",
+  "first_seen": "2026-11-07",
   "last_seen": "2026-11-27"
  },
  {
@@ -15539,14 +14875,14 @@
  },
  {
   "company": "Plante Moran",
-  "title": "2027 State and Local Tax (SALT) Intern",
-  "location": "Cleveland, OH, USA",
-  "url": "https://www.linkedin.com/jobs/view/4242226393",
-  "posted": "2026-11-26",
+  "title": "2027 Transaction Advisory Services Consulting Intern",
+  "location": "Southfield, MI, USA",
+  "url": "https://www.linkedin.com/jobs/view/4460663217",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "unspecified",
   "rank": "C",
-  "hw": "tax",
+  "hw": "advisory,consulting,transaction",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
@@ -15569,23 +14905,6 @@
    "jobspy:linkedin"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Plante Moran",
-  "title": "2027 Transaction Advisory Services Consulting Intern",
-  "location": "Southfield, MI, USA",
-  "url": "https://www.linkedin.com/jobs/view/4460663217",
-  "posted": "2026-11-27",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "advisory,consulting,transaction",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
   "last_seen": "2026-11-27"
  },
  {
@@ -15620,23 +14939,6 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-23",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Portland General Electric",
-  "title": "PGE Intern \u2013 Graduate Business or Technical Intern, Grid Operations",
-  "location": "Tualatin, OR, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494479974",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "operations",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
   "last_seen": "2026-11-27"
  },
  {
@@ -16354,23 +15656,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Prologis",
-  "title": "Treasury Cash Management Intern",
-  "location": "Denver, CO, USA",
-  "url": "https://www.linkedin.com/jobs/view/4478576700",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "treasury",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "Protiviti",
   "title": "Business Performance Improvement Intern",
   "location": "New York, NY, USA",
@@ -16385,6 +15670,23 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Rabobank",
+  "title": "Financial Analyst Intern",
+  "location": "Cedar Falls, IA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4462496156",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "analyst,financial",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
@@ -16470,23 +15772,6 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-13",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Republic Finance",
-  "title": "Branch Operations Intern",
-  "location": "Humble, TX, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494488018",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "operations",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
   "last_seen": "2026-11-27"
  },
  {
@@ -16606,6 +15891,23 @@
    "jobspy:linkedin"
   ],
   "first_seen": "2026-11-25",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Rouge International & Rouge Ventures",
+  "title": "Private Equity - Agtech Capital Associate Intern (USA Based | Commission-based)",
+  "location": "USA",
+  "url": "https://www.linkedin.com/jobs/view/4495075418",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "private equity",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-27",
   "last_seen": "2026-11-27"
  },
  {
@@ -16915,6 +16217,23 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "Signet Jewelers",
+  "title": "Tax Intern (Summer, Hybrid)",
+  "location": "Greater Cleveland",
+  "url": "https://www.linkedin.com/jobs/view/4485012923",
+  "posted": "2026-11-25",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "tax",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Sirius XM Radio",
   "title": "Music Programming Operations Intern",
   "location": "New York, NY, USA",
@@ -17136,6 +16455,23 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "State of Wisconsin Investment Board",
+  "title": "Liquidity Optimization Intern",
+  "location": "Madison, WI, USA",
+  "url": "https://www.linkedin.com/jobs/view/4477331429",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "maybe",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "StepStone Group",
   "title": "Private Debt Senior Associate Intern",
   "location": "New York, NY, USA",
@@ -17150,23 +16486,6 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Stifel Financial Corp.",
-  "title": "1919 Internship \u2013 Investment Processes and Project Management",
-  "location": "Cincinnati, OH, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494972435",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "investment,project management",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-26",
   "last_seen": "2026-11-27"
  },
  {
@@ -17238,6 +16557,40 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "Talcott Financial Group",
+  "title": "Investment Management Internship",
+  "location": "New York, NY, USA",
+  "url": "https://www.linkedin.com/jobs/view/4479556963",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "investment",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Talcott Financial Group",
+  "title": "Investment Management- Internship",
+  "location": "Greater Hartford",
+  "url": "https://www.linkedin.com/jobs/view/4479780443",
+  "posted": "2026-11-26",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "investment",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Tapestry",
   "title": "ESG and Trade Compliance Internship",
   "location": "New York, NY, USA",
@@ -17303,6 +16656,23 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-18",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Target",
+  "title": "Financial Analyst Intern -  Minneapolis, MN (Starting Summer, 2027)",
+  "location": "Minneapolis, MN, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494110725",
+  "posted": "2026-11-24",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "analyst,financial",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-24",
   "last_seen": "2026-11-27"
  },
  {
@@ -17698,40 +17068,6 @@
  },
  {
   "company": "UBS",
-  "title": "Intern",
-  "location": "Chattanooga, TN, USA",
-  "url": "https://www.linkedin.com/jobs/view/4471511405",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "maybe",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "UBS",
-  "title": "Intern",
-  "location": "Nashville, TN, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494734843",
-  "posted": "2026-11-24",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "maybe",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "UBS",
   "title": "Senior Wealth Strategy Associate Intern",
   "location": "Washington, DC, USA; Los Angeles, CA, USA; Tampa, FL, USA",
   "url": "https://simplify.jobs/jobs/click/f674cce4-6597-4502-a14c-6b87dfca992c",
@@ -17765,15 +17101,15 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Univest",
-  "title": "SBA Credit Intern",
-  "location": "West Lawn, PA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4493085442",
+  "company": "Valeo",
+  "title": "Finance Intern (Year-Round)",
+  "location": "Reno, NV, USA",
+  "url": "https://www.linkedin.com/jobs/view/4494490589",
   "posted": "2026-11-25",
   "deadline": "",
   "term": "unspecified",
   "rank": "C",
-  "hw": "credit",
+  "hw": "finance",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
@@ -17902,40 +17238,6 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Vertex Inc.",
-  "title": "Corporate Development Intern",
-  "location": "USA",
-  "url": "https://www.linkedin.com/jobs/view/4494750749",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "corporate development",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Vertex Inc.",
-  "title": "Strategy Intern",
-  "location": "USA",
-  "url": "https://www.linkedin.com/jobs/view/4494754820",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "strategy",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-27"
- },
- {
   "company": "Vibrant ABA",
   "title": "Student Board Certified Behavior Analyst Intern",
   "location": "New York, NY, USA",
@@ -17987,20 +17289,20 @@
   "last_seen": "2026-11-27"
  },
  {
-  "company": "Voya Financial",
-  "title": "Financial Reporting Intern",
-  "location": "Atlanta, GA, USA",
-  "url": "https://www.linkedin.com/jobs/view/4494162858",
-  "posted": "2026-11-24",
+  "company": "VoltEdge Pro Systems",
+  "title": "[Accounting Internship]",
+  "location": "San Francisco, CA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4493437913",
+  "posted": "2026-11-27",
   "deadline": "",
   "term": "unspecified",
   "rank": "C",
-  "hw": "financial",
+  "hw": "accounting",
   "tier": "",
   "sources": [
    "jobspy:linkedin"
   ],
-  "first_seen": "2026-11-24",
+  "first_seen": "2026-11-27",
   "last_seen": "2026-11-27"
  },
  {
@@ -18086,6 +17388,57 @@
    "internlist:nyc"
   ],
   "first_seen": "2026-11-13",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Voya Investment Management",
+  "title": "Summer Student - Investment Analytics",
+  "location": "Atlanta, GA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4488078048",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "analytics,investment",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Voya Investment Management",
+  "title": "Summer Student - Investment Risk Management",
+  "location": "Atlanta, GA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4488079000",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "investment,risk",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-27"
+ },
+ {
+  "company": "Voya Investment Management",
+  "title": "Summer Student - Risk Analytics and Reporting",
+  "location": "Atlanta, GA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4488080140",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "analytics,risk",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-06",
   "last_seen": "2026-11-27"
  },
  {
@@ -18535,6 +17888,23 @@
   "last_seen": "2026-11-27"
  },
  {
+  "company": "Wilson Lewis",
+  "title": "Tax Internship",
+  "location": "Duluth, GA, USA",
+  "url": "https://www.linkedin.com/jobs/view/4469608997",
+  "posted": "2026-11-27",
+  "deadline": "",
+  "term": "unspecified",
+  "rank": "C",
+  "hw": "tax",
+  "tier": "",
+  "sources": [
+   "jobspy:linkedin"
+  ],
+  "first_seen": "2026-11-06",
+  "last_seen": "2026-11-27"
+ },
+ {
   "company": "Wipfli",
   "title": "Audit Internship, Summer 2028",
   "location": "Missoula, MT, USA",
@@ -18602,23 +17972,6 @@
    "internlist:boston"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-27"
- },
- {
-  "company": "Woodbury School of Business",
-  "title": "Student - Treasury Services Intern",
-  "location": "Orem, UT, USA",
-  "url": "https://www.linkedin.com/jobs/view/4493078946",
-  "posted": "2026-11-25",
-  "deadline": "",
-  "term": "unspecified",
-  "rank": "C",
-  "hw": "treasury",
-  "tier": "",
-  "sources": [
-   "jobspy:linkedin"
-  ],
-  "first_seen": "2026-11-25",
   "last_seen": "2026-11-27"
  },
  {
