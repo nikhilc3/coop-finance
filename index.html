@@ -116,7 +116,7 @@ function render(){
   document.getElementById("count").textContent=rows.length?`${vis.length} shown`:"";
   const L=document.getElementById("list");
   if(!vis.length){L.innerHTML=`<div class="empty">${rows.length?"Nothing matches.":"No postings yet. The first scan fills this in."}</div>`;return}
-  L.innerHTML=vis.map(r=>{const st=status[r.link]||"";const term=r.term=="fall"?"Fall 2027":r.term=="summer"?"Summer 2027":r.term=="coop-unspecified"?"Co-op, term not stated":r.term=="summer-2028"?"2028 program (next cycle)":"Term not stated";
+  L.innerHTML=vis.map(r=>{const st=status[r.link]||"";const term=r.term=="fall"?"Fall 2027":r.term=="summer"?"Summer 2027":r.term=="spring"?"Spring 2027":r.term=="coop-unspecified"?"Co-op, term not stated":r.term=="summer-2028"?"2028 program (next cycle)":"Term not stated";
     return `<div class="row ${esc(r.fit)} ${["applied","skip"].includes(st)?"done":""}"><div class="stripe"></div>
     <div class="main"><a class="role" href="${esc(r.link)}" target="_blank" rel="noopener">${esc(r.role)}</a> <span class="co">· ${esc(r.company)}</span>${r.new?' <span class="newtag">NEW</span>':""}
     <div class="sub"><span>${esc(term)}</span><span>${esc(r.location)}</span>${via(r.link)?`<span>via ${esc(via(r.link))}</span>`:""}${r.posted?`<span>posted ${esc(r.posted)}</span>`:""}${r.deadline?`<span><b>deadline ${esc(r.deadline)}</b></span>`:""}${r.nuworks?`<span>${r.nuworks_link?`<a href="${esc(r.nuworks_link)}" target="_blank" rel="noopener">NUWorks</a>`:"NUWorks"}${r.nu_eligible=="NOT QUALIFIED"?" (not qualified)":""}</span>`:""}</div></div>
