@@ -51,7 +51,7 @@ SUMMER_RE = re.compile(r"summer\s*'?(20)?27|(20)?27\s+summer|summer\s+(analyst|i
 FALL_RE = re.compile(r"fall\s*'?(20)?27|(20)?27\s+fall|autumn\s*(20)?27|fall\s+(semester|term|co-?op|intern|internship)|"
                      r"ju(ly|n)e?\s*[-–—to]+\s*dec|jul(y)?\.?\s*2027|(aug|sept?)(ust|ember)?\.?\s*2027|"
                      r"summer\s*/\s*fall|fall\s*/\s*winter|jul(y)?\s*[-–—to]+\s*(dec|jan)", re.I)
-# DROP: terms he can't do (he's in classes Jan-Jun 2027) or that already passed
+# SPRING: Jan-Jun 2027 co-ops. Kept since Nov 2026 (he can withdraw from classes, so any 2027 term works). PAST is dropped.
 SPRING_RE = re.compile(r"spring\s*'?(20)?27|winter\s*'?(20)?27|jan(uary)?\s*'?(20)?27|winter\s*[/&-]\s*spring|\bw/s\b|"
                        r"spring\s+(semester|term|co-?op|intern|internship)|jan(uary)?\.?\s*[-–—to]+\s*(may|jun)", re.I)
 PAST_RE = re.compile(r"summer\s*'?(20)?26|fall\s*'?(20)?26|spring\s*'?(20)?26|2026\s+(summer|fall)", re.I)
@@ -92,8 +92,8 @@ def term_of(job):
 
 
 def _rank(term):
-    # A = summer or fall 2027 stated, B = co-op with no term stated, C = intern with no term stated
-    return "A" if term in ("summer", "fall") else ("B" if term == "coop-unspecified" else "C")
+    # A = summer, fall or spring 2027 stated, B = co-op with no term stated, C = intern with no term stated
+    return "A" if term in ("summer", "fall", "spring") else ("B" if term == "coop-unspecified" else "C")
 
 
 def classify(job):
@@ -113,7 +113,7 @@ def classify(job):
         fin_desc = len(set(m.group(1).lower() for m in FIN_RE.finditer(d))) >= 3
         if (job.get("tier") or fin_desc or re.search(r"summer analyst", title, re.I)) and not NON_US.search(job.get("location") or ""):
             t = term_of(job)
-            if t not in ("spring", "past"):
+            if t != "past":
                 return True, "ok", {"term": t, "hw": ["maybe"], "rank": _rank(t), "maybe": True}
         return False, "no finance/business keyword", {}
     if PHD_ONLY.search(title) and not re.search(r"\b(bs|ba|bachelor|undergrad)", title, re.I):
@@ -121,8 +121,6 @@ def classify(job):
     if NON_US.search(job.get("location") or ""):
         return False, "non-US", {}
     term = term_of(job)
-    if term == "spring":
-        return False, "spring/winter only", {"term": term}
     if term == "past":
         return False, "2026 term (past)", {"term": term}
     return True, "ok", {"term": term, "hw": hits[:4], "rank": _rank(term)}
