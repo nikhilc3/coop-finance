@@ -11,14 +11,14 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 207
+  "last_n": 205
  },
  "John Hancock / Manulife": {
   "best": 123,
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 115
+  "last_n": 113
  },
  "Liberty Mutual": {
   "best": 33,
@@ -53,7 +53,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 259
+  "last_n": 255
  },
  "Point72": {
   "best": 203,
@@ -95,7 +95,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 135
+  "last_n": 132
  },
  "Wayfair": {
   "best": 1,
