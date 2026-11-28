@@ -28,6 +28,9 @@ REG = os.environ.get("CAREER_OPS_BOARDS", os.path.join(ROOT, "ext", "career-ops"
 CACHE = os.path.join(ROOT, "data", "registry_raw.json")
 ATS = ("greenhouse", "lever", "ashby", "smartrecruiters", "workday")
 THREADS = int(os.environ.get("REGISTRY_THREADS", "48"))
+# stop starting new boards after this many seconds and keep the last sweep's postings for the boards not reached,
+# so a slow, rate-limited day can't run into the workflow step timeout and lose everything
+BUDGET = int(os.environ.get("REGISTRY_BUDGET_S", "2400"))
 # the shared ATS APIs rate-limit bursts (the first sweep lost most Greenhouse/SmartRecruiters boards to that):
 # cap concurrent calls per host and retry 429/5xx with backoff
 _SEM = {"boards-api.greenhouse.io": threading.Semaphore(6), "api.smartrecruiters.com": threading.Semaphore(4),
@@ -246,6 +249,7 @@ def sweep(companies=(), limit=None):
         boards = boards[:limit]
     log(f"career-ops registry: {len(boards)} boards", dict(Counter(b["ats"] for b in boards)))
     jobs, fails, done, t0 = [], Counter(), 0, time.time()
+    read_ok, gone, stopped = set(), set(), False
     with cf.ThreadPoolExecutor(max_workers=THREADS) as ex:
         futs = {ex.submit(READERS[b["ats"]], b): b for b in boards}
         for fut in cf.as_completed(futs):
@@ -254,12 +258,26 @@ def sweep(companies=(), limit=None):
             try:
                 got = fut.result()
                 jobs += got
+                read_ok.add((b["ats"], b["name"]))
                 for j in got:
                     log(f"  + {b['name'][:28]:28s} {j['title'][:70]}")
             except Exception as e:  # noqa
                 fails[b["ats"]] += 1
+                if isinstance(e, urllib.error.HTTPError) and e.code in (404, 410):
+                    gone.add((b["ats"], b["name"]))  # board removed: let its old postings drop off
             if done % 1000 == 0:
                 log(f"  ... {done}/{len(boards)} boards, {len(jobs)} postings, {time.time()-t0:.0f}s")
+            if time.time() - t0 > BUDGET and not stopped:
+                stopped = True
+                n = sum(f.cancel() for f in futs)
+                log(f"  time budget ({BUDGET}s) reached: skipped {n} boards not started yet")
+    if stopped or fails:
+        # keep last sweep's postings for boards this run couldn't read (rate limits, timeouts, the time budget)
+        skip = read_ok | gone
+        kept = [j for j in load_cache(lambda *a: None)
+                if (j.get("source", "").replace("careerops-", ""), j.get("company")) not in skip]
+        jobs += kept
+        log(f"  kept {len(kept)} postings from the previous sweep for boards not read this time")
     log(f"registry sweep: {len(jobs)} postings from {len(boards)} boards in {time.time()-t0:.0f}s; failed boards {dict(fails)}")
     log("errors by host/status:", dict(ERRORS.most_common(12)))
     return jobs
