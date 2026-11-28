@@ -67,7 +67,9 @@ def main():
         md.append("")
     if new_rows:
         md.append("## New postings\n\n| Fit | Urgency | Company | Role | Location | Deadline |\n|---|---|---|---|---|---|")
-        md += [f"| **{r['fit']}** | {r['urgency']} | {r['company']} | [{r['role']}]({r['link']}) | {r['location']} | {r['deadline']} |" for r in new_rows]
+        md += [f"| **{r['fit']}** | {r['urgency']} | {r['company']} | [{r['role']}]({r['link']}) | {r['location']} | {r['deadline']} |" for r in new_rows[:150]]
+        if len(new_rows) > 150:   # GitHub caps an issue body at 65k characters (a registry sweep can add hundreds at once)
+            md.append(f"\n…and {len(new_rows) - 150} more on the board.")
         md.append("")
     if broken:
         md.append("## Fetcher health\n")
