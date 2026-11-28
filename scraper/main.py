@@ -21,7 +21,7 @@ import time
 from datetime import date
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from scraper import fetchers, filters, sources_github, sources_internlist, jobspy_search  # noqa: E402
+from scraper import fetchers, filters, sources_github, sources_internlist, jobspy_search, sources_registry  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
@@ -129,7 +129,7 @@ def run(args):
         log("fetching ATS boards…")
         raw += fetch_ats(companies)
     if args.fast:   # fast tier: direct company feeds only; the hourly full run does the slow sources
-        args.no_github = args.no_internlist = args.no_jobspy = True
+        args.no_github = args.no_internlist = args.no_jobspy = args.no_registry = True
     if not args.no_github:
         log("fetching GitHub lists…")
         raw += sources_github.fetch_all(log)
@@ -142,6 +142,9 @@ def run(args):
     if not args.raw and not args.no_jobspy:
         log("LinkedIn/Indeed sweep…")
         raw += jobspy_search.fetch_all(log)
+    if not args.raw and not args.no_registry:
+        # career-ops employer registry (~17k company boards), swept once a day by the workflow; cached between runs
+        raw += sources_registry.load_cache(log)
 
     # first pass: cheap filters. Workday needs descriptions for term detection, so enrich the survivors then re-classify.
     survivors = []
@@ -247,4 +250,5 @@ if __name__ == "__main__":
     ap.add_argument("--no-jobspy", action="store_true", help="skip the LinkedIn/Indeed sweep")
     ap.add_argument("--no-internlist", action="store_true", help="skip the internlist.org / Simplify lists")
     ap.add_argument("--fast", action="store_true", help="direct company feeds only (the 10-minute tier)")
+    ap.add_argument("--no-registry", action="store_true", help="skip the career-ops registry cache")
     run(ap.parse_args())
