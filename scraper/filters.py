@@ -56,11 +56,45 @@ SPRING_RE = re.compile(r"spring\s*'?(20)?27|winter\s*'?(20)?27|jan(uary)?\s*'?(2
                        r"spring\s+(semester|term|co-?op|intern|internship)|jan(uary)?\.?\s*[-–—to]+\s*(may|jun)", re.I)
 PAST_RE = re.compile(r"summer\s*'?(20)?26|fall\s*'?(20)?26|spring\s*'?(20)?26|2026\s+(summer|fall)", re.I)
 
-NON_US = re.compile(r"\b(india|bangalore|bengaluru|hyderabad|pune|mumbai|gurgaon|noida|chennai|china|shanghai|beijing|shenzhen|hong kong|"
+_NON_US_RE = re.compile(r"\b(india|bangalore|bengaluru|hyderabad|pune|mumbai|gurgaon|noida|chennai|china|shanghai|beijing|shenzhen|hong kong|"
                     r"taiwan|taipei|germany|frankfurt|munich|israel|tel aviv|uk\b|united kingdom|london|edinburgh|ireland|dublin|emea|apac|"
                     r"netherlands|amsterdam|france|paris|poland|warsaw|romania|singapore|malaysia|philippines|manila|vietnam|japan|tokyo|"
                     r"korea|seoul|canada|toronto|vancouver|ottawa|montreal|mexico|brazil|sao paulo|switzerland|zurich|geneva|luxembourg|"
-                    r"belgium|sweden|spain|madrid|italy|milan|czech|hungary|budapest|krakow|australia|sydney|dubai|uae|riyadh)\b", re.I)
+                    r"belgium|sweden|spain|madrid|italy|milan|czech|hungary|budapest|krakow|krak\u00f3w|australia|sydney|dubai|uae|riyadh|"
+                    r"berlin|hamburg|stuttgart|cologne|k\u00f6ln|d\u00fcsseldorf|dusseldorf|m\u00fcnchen|darmstadt|leipzig|metzingen|portugal|lisbon|porto|"
+                    r"brussels|antwerp|eindhoven|rotterdam|utrecht|alkmaar|bordeaux|lyon|marseille|toulouse|austria|vienna|denmark|copenhagen|"
+                    r"finland|helsinki|norway|oslo|stockholm|gothenburg|iceland|scotland|glasgow|belfast|cardiff|barcelona|rome|milano|turin|"
+                    r"greece|athens|estonia|tallinn|latvia|riga|lithuania|vilnius|ukraine|kyiv|serbia|belgrade|croatia|zagreb|bulgaria|sofia|"
+                    r"slovakia|bratislava|slovenia|cyprus|malta|lausanne|z\u00fcrich|basel|t\u00fcrkiye|turkey|istanbul|ankara|gebze|tbilisi|"
+                    r"thailand|bangkok|indonesia|jakarta|kuala lumpur|penang|ho chi minh|hanoi|cebu|taguig|guangzhou|hangzhou|chengdu|osaka|"
+                    r"busan|delhi|gurugram|kolkata|ahmedabad|pakistan|karachi|lahore|bangladesh|dhaka|sri lanka|colombo|nepal|"
+                    r"saudi|united arab emirates|abu dhabi|qatar|doha|bahrain|kuwait|egypt|cairo|kenya|nairobi|nigeria|lagos|ghana|"
+                    r"south africa|cape town|johannesburg|malawi|morocco|colombia|bogota|bogot\u00e1|chile|argentina|buenos aires|peru|uruguay|"
+                    r"costa rica|guatemala|ciudad de m\u00e9xico|guadalajara|monterrey|new zealand|auckland|wellington|melbourne|brisbane|perth|"
+                    r"burnaby|calgary|edmonton|alberta|ontario|quebec|british columbia|mississauga|waterloo, on|winnipeg|halifax)\b", re.I)
+# A US state or "United States" in the same location string wins (Melbourne, FL; Vienna, VA; Rome, GA; Ontario, CA;
+# multi-city "London; New York, NY"), so the longer foreign-city list above doesn't drop US postings.
+_US_STATE = re.compile(r",\s*(AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|"
+                       r"NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|PR)\b")
+_US_NAME = re.compile(r"\b(united states|usa|u\.s\.|alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|"
+                      r"georgia|hawaii|idaho|illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|"
+                      r"minnesota|mississippi|missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|new york|"
+                      r"north carolina|north dakota|ohio|oklahoma|oregon|pennsylvania|rhode island|south carolina|south dakota|"
+                      r"tennessee|texas|utah|vermont|virginia|washington|west virginia|wisconsin|wyoming)\b", re.I)
+
+
+class _NonUS:
+    """Same .search() interface the callers already use on a compiled regex."""
+    def search(self, location):
+        location = location or ""
+        if not _NON_US_RE.search(location):
+            return None
+        if _US_STATE.search(location) or _US_NAME.search(location):
+            return None
+        return True
+
+
+NON_US = _NonUS()
 
 
 def is_intern(job):
