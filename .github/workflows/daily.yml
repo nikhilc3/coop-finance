@@ -5,10 +5,15 @@ on:
     - cron: "5 11-23 * * *"      # full scan hourly, 7am-8pm ET
     - cron: "5 3 * * *"          # one overnight pass
     - cron: "0 9 1 * *"          # monthly: re-run ATS discovery for config/candidates.json
+    - cron: "5 10 * * *"         # daily: wide sweep of the career-ops employer registry (~17k company boards)
   workflow_dispatch:
     inputs:
       discover:
         description: "also run ATS discovery for config/candidates.json"
+        type: boolean
+        default: false
+      registry:
+        description: "also sweep the career-ops employer registry (~17k company boards, ~30 min)"
         type: boolean
         default: false
 
@@ -35,6 +40,14 @@ jobs:
       - name: ATS discovery (first run, manual "discover" runs, monthly)
         if: ${{ inputs.discover || github.event.schedule == '0 9 1 * *' || hashFiles('data/discover_config.json') == '' }}
         run: python -m scraper.discover 2>&1 | tee data/discover.log
+        continue-on-error: true
+      - name: career-ops registry sweep (daily, or manual runs with "registry" ticked)
+        if: ${{ inputs.registry || github.event.schedule == '5 10 * * *' }}
+        timeout-minutes: 45
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse https://github.com/career-ops-hq/career-ops ext/career-ops
+          git -C ext/career-ops sparse-checkout set employers/boards
+          python -m scraper.sources_registry 2>&1 | tee data/registry.log | grep -v '^  + ' | tail -40
         continue-on-error: true
       - name: run scraper
         run: set -o pipefail; python -m scraper.main 2>&1 | tee data/run.log
