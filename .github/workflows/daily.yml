@@ -43,7 +43,7 @@ jobs:
         continue-on-error: true
       - name: career-ops registry sweep (daily, or manual runs with "registry" ticked)
         if: ${{ inputs.registry || github.event.schedule == '5 10 * * *' }}
-        timeout-minutes: 45
+        timeout-minutes: 60
         run: |
           git clone --depth 1 --filter=blob:none --sparse https://github.com/career-ops-hq/career-ops ext/career-ops
           git -C ext/career-ops sparse-checkout set employers/boards
