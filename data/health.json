@@ -2,9 +2,9 @@
  "JPMorgan Chase": {
   "best": 943,
   "zero_runs": 0,
-  "fail_runs": 0,
-  "err": "",
-  "last_n": 943
+  "fail_runs": 1,
+  "err": "HTTPError: HTTP Error 302: Moved Temporarily",
+  "last_n": 0
  },
  "State Street": {
   "best": 217,
@@ -53,7 +53,7 @@
   "zero_runs": 0,
   "fail_runs": 0,
   "err": "",
-  "last_n": 261
+  "last_n": 259
  },
  "Point72": {
   "best": 203,
