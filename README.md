@@ -11,6 +11,11 @@ Built on the same engine as [hrisheekmust-blip/coop-scraper](https://github.com/
   and about 70 others (see `config/candidates.json`). The first run figures out which job system each company uses.
 - **LinkedIn and Indeed**: about 20 searches like "corporate finance intern 2027" and "finance co-op fall 2027".
 - **internlist.org** (Simplify's index): the Boston, NYC and co-op lists.
+- **career-ops employer registry**: once a day the workflow pulls the community list of ~17,000 company job boards
+  from [career-ops](https://github.com/career-ops-hq/career-ops) (`employers/`, CC BY 4.0) and reads every US
+  Greenhouse, Lever, Ashby, SmartRecruiters and Workday board on it, keeping only finance/business internship and co-op
+  titles (`scraper/sources_registry.py`, results cached in `data/registry_raw.json`). Run it by hand from the Actions tab
+  with the **registry** box ticked.
 - **NUWorks**: only if you run the crawl script yourself (it's behind Northeastern login). See below.
 
 ## What it keeps
@@ -18,8 +23,8 @@ Built on the same engine as [hrisheekmust-blip/coop-scraper](https://github.com/
 - Titles with finance or business words: corporate finance, FP&A, treasury, accounting, audit, tax, investment banking,
   equity research, asset/wealth management, risk, consulting, strategy, business analyst, operations, and so on.
 - Bank-style vague titles too, like "2027 Summer Analyst Program", at companies on the list.
-- Drops: engineering/software roles, MBA/grad-only roles, non-US locations, spring 2027 only, anything for 2026.
-- Ranks: **A** = summer or fall 2027 stated, **B** = co-op with no term stated, **C** = internship with no term stated.
+- Drops: engineering/software roles, MBA/grad-only roles, non-US locations, anything for 2026. Spring 2027 co-ops are kept.
+- Ranks: **A** = summer, fall or spring 2027 stated, **B** = co-op with no term stated, **C** = internship with no term stated.
 
 ## Setup (about 20 minutes, all in the browser)
 
