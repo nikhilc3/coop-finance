@@ -14,7 +14,10 @@ import json
 import os
 import re
 import sys
+import threading
 import time
+import urllib.error
+from collections import Counter
 from datetime import date
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -25,7 +28,37 @@ REG = os.environ.get("CAREER_OPS_BOARDS", os.path.join(ROOT, "ext", "career-ops"
 CACHE = os.path.join(ROOT, "data", "registry_raw.json")
 ATS = ("greenhouse", "lever", "ashby", "smartrecruiters", "workday")
 THREADS = int(os.environ.get("REGISTRY_THREADS", "48"))
-_get = fetchers._get
+# the shared ATS APIs rate-limit bursts (the first sweep lost most Greenhouse/SmartRecruiters boards to that):
+# cap concurrent calls per host and retry 429/5xx with backoff
+_SEM = {"boards-api.greenhouse.io": threading.Semaphore(6), "api.smartrecruiters.com": threading.Semaphore(4),
+        "api.lever.co": threading.Semaphore(8), "api.ashbyhq.com": threading.Semaphore(12)}
+ERRORS = Counter()
+
+
+def _get(url, data=None, timeout=25):
+    host = url.split("/")[2]
+    sem = _SEM.get(host)
+    for attempt in range(4):
+        try:
+            if sem:
+                sem.acquire()
+            try:
+                return fetchers._get(url, data=data, timeout=timeout)
+            finally:
+                if sem:
+                    sem.release()
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503, 504) and attempt < 3:
+                time.sleep(2 * (attempt + 1) ** 2)
+                continue
+            ERRORS[f"{host.split('.')[-2] if 'workday' in host else host} {e.code}"] += 1
+            raise
+        except Exception as e:  # timeouts, resets
+            if attempt < 1:
+                time.sleep(2)
+                continue
+            ERRORS[f"{host.split('.')[-2] if 'workday' in host else host} {type(e).__name__}"] += 1
+            raise
 
 
 def log(*a):
@@ -211,7 +244,6 @@ def sweep(companies=(), limit=None):
     boards = load_boards(skip_set(companies))
     if limit:
         boards = boards[:limit]
-    from collections import Counter
     log(f"career-ops registry: {len(boards)} boards", dict(Counter(b["ats"] for b in boards)))
     jobs, fails, done, t0 = [], Counter(), 0, time.time()
     with cf.ThreadPoolExecutor(max_workers=THREADS) as ex:
@@ -229,6 +261,7 @@ def sweep(companies=(), limit=None):
             if done % 1000 == 0:
                 log(f"  ... {done}/{len(boards)} boards, {len(jobs)} postings, {time.time()-t0:.0f}s")
     log(f"registry sweep: {len(jobs)} postings from {len(boards)} boards in {time.time()-t0:.0f}s; failed boards {dict(fails)}")
+    log("errors by host/status:", dict(ERRORS.most_common(12)))
     return jobs
 
 
